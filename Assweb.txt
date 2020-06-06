@@ -1,0 +1,1222 @@
+<!DOCTYPE HTML>
+<html lang="en" id="html_job">
+<head>
+<link rel="dns-prefetch" href="https://utils.imimg.com/">
+<link rel="dns-prefetch" href="https://apps.imimg.com/">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://hm.imimg.com">
+<link rel="dns-prefetch" href="https://4.imimg.com">
+<link rel="dns-prefetch" href="https://5.imimg.com">
+<link rel="dns-prefetch" href="https://3.imimg.com">
+<link rel="preload" href="https://utils.imimg.com/imsrchui/js/jquery.js" as="script">  
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="format-detection" content="telephone=no">
+<script src="https://utils.imimg.com/imsrchui/js/jquery.js" ></script>
+<TITLE>lucy Shoe - Retailer of Ladies Shoes & Formal Shoes from Latur</TITLE><META NAME="Description" CONTENT="Ladies Shoes, Formal Shoes & Kids Shoes Retailer offered by Shandar Shoe Center from Latur, Maharashtra, India" /><META NAME="Keywords" CONTENT="Ladies Shoes, Formal Shoes, Kids Shoes, Mens Shoes, Sports Shorts, Ladies Shoe, Formal Shoe, Shandar Shoe Center, Latur" /><meta name="robots" content="index,follow">
+
+<meta property="og:title" content="Shandar Shoe Center - Retailer of Ladies Shoes & Formal Shoes from Latur" /><meta property="og:site_name" content="IndiaMART.com"/><meta property="og:url" content="https://www.indiamart.com/company/83177293/" /><meta property="og:image" content="http://fcp.imimg.com/gifs/imlogov3.jpg" /><meta property="og:image:url" content="http://fcp.imimg.com/gifs/imlogov3.jpg" /><meta property="og:image:width" content="250" /><meta property="og:image:height" content="250" /><meta property="og:description" content="Ladies Shoes, Formal Shoes & Kids Shoes Retailer offered by Shandar Shoe Center from Latur, Maharashtra, India" /> 
+
+<meta name="twitter:card" content="summary" /><meta name="twitter:title" content="Shandar Shoe Center - Retailer of Ladies Shoes & Formal Shoes from Latur" /><meta name="twitter:description" content="Ladies Shoes, Formal Shoes & Kids Shoes Retailer offered by Shandar Shoe Center from Latur, Maharashtra, India" /><meta name="twitter:image" content="http://fcp.imimg.com/gifs/imlogov3.jpg" /><meta name="twitter:image:width" content="250" /><meta name="twitter:image:height" content="250" />
+<link rel="canonical" href="https://www.indiamart.com/company/83177293/">
+      <link rel="alternate" media="only screen and (max-width:640px)"  href="https://m.indiamart.com/company/83177293/"><div id="return-to-top" style="display: block;"></div><link type="text/css" rel="stylesheet" href="//utils.imimg.com/globalhf/header/header-new32.min.css"><!-- centralized enquiry sms form -->
+
+
+			<script>
+    		       imgtm=[{'CD_User-Mode':'unidentified','PV_Tracking':'/company/purl/D/homepage/company/83177293/','CD_FCP_Rank':'D','CD_Miscellaneous':'v36-FCP'}];
+                            function loadGtm(){(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','imgtm','GTM-NR4G');}
+                            </script>
+			 </head> <body class="FCP" >
+<script>
+var fcp_flag='1';
+var is_loaded_blenqpost_js=0;
+var sugg='';
+var glmodid='FCP';
+var bljsfile='https://apps.imimg.com/js/reqForms.min.js?v=187';
+var paidFreeurl = 'https://www.indiamart.com/company/83177293/';
+var centpath = '//hm.imimg.com/template-mdc/d0066';
+var catid_ads='';
+var mcatid_ads='';
+var currentPageType='homepage';
+var pageRank='Rank - D';
+var glidUSer= '83177293';
+var stick_clos=0;
+var indexSlide = false;
+var haveSlided = false;
+var imgSlide=0;
+var vi_id = '';
+var is_Adult = '1';
+if(typeof(page) == "undefined") var page = {};
+page.pageType='homepage';
+page.scriptVer='reqForms.min.js?v=187';
+
+
+
+function selecttext(event, ui){
+this.value = ui.item.value;
+var serch = document.getElementById('search_string').value;
+
+
+if(typeof( ui.item.data) != 'undefined' && typeof(ui.item.data.catid) != 'undefined' && ui.item.data.catid != '')
+{
+$('#hdr_frm').append( "<input type='hidden' name='catid' id='catid' value='"+ui.item.data.catid+"' >" );
+}
+if (typeof( ui.item.askwdSel) != 'undefined' && ui.item.askwdSel == 1){
+          var source_val = ui.item.trackid;
+          $('#hdr_frm').append( "<input type='hidden' name='src' id='src' value='"+source_val+"' >" );
+        }
+if(event.keyCode == 13)
+{
+document.getElementById('btnSearch').click();
+}
+else if(event.handleObj.origType=="click")
+{
+document.getElementById('btnSearch').click();
+}
+}
+var webAdd=location.hostname;
+var Url_flag =webAdd.match(/^dev/)?"dev-":(webAdd.match(/^stg/))?"stg-":"";
+var glmodid ='FCP';
+
+
+
+var seller_rating_arr = []
+if ('undefined' == typeof _gaq || 'object' != typeof _gaq) {
+  var _gaq = {
+  };
+  _gaq.push = function (e) {
+    '_trackPageview' === e[0] ? imgtm.push({
+      event: 'VirtualPageview',
+      virtualPageURL: e[1],
+      virtualPageTitle: e[2] ? e[2] : ''
+    })  : '_trackEvent' === e[0] && imgtm.push({
+      event: 'IMEvent',
+      eventCategory: e[1],
+      eventAction: e[2],
+      eventLabel: e[3],
+      eventValue: e[4]
+    })
+  }
+}
+
+</script>
+
+<link href="//hm.imimg.com/template-mdc/d0066/style-fmt47.css" rel="stylesheet">
+<script src="//hm.imimg.com/template-mdc/d0066/pre66-v22.js" ></script>
+<header><div class="blk_scrn ver_dn" id="ver_sc"></div><div class="ver_cert ver_dn"></div><div class="headercntrl"><div class="gl-wrapper" id="header"><div class="nwHdr"> <div class="hdlft"><a href="https://www.indiamart.com/" class="hd_logo">IndiaMART</a></div> <div class="hdw hdLk"> <div class="srchB ch_fr"> <div class ="hd_srch" id="hdSrh"><div class="wrpd3 select-wrapper" id="drpn" style="display:none"></div><form name="searform" method="get" onsubmit="return validator(document.searform);" id="hdr_frm" action="https://dir.indiamart.com/search.mp?ss="> <input type="submit" id="btnSearch" class="hd_srBtn ch_fr" value=Search> <input placeholder="Enter product / service to search" id="search_string" name="ss" class="hd_txt ch_fr"> </form> </div> <div class="pstBuy ch_flt lgn1" id="pstBuy"><a href="https://my.indiamart.com/blgen/postbl?modid=IMHOME" class="ih-pbr ch_post_buy">Get Best Price</a></div><div class="fr1"><ul id="cssmenu1" class="headermenu"><li class="has-sub" id="cvdSp" style="display:none"></li> <li id="lead_manager" style="display:none" class="head_Icn hdLeadMn"><span class="nme cpo hdBlk"></span></li> <li id="lead_cen" style="display:none" class="head_Icn hdLeadMn"><span class="nme cpo hdBlk"></span></li> <li id="prod_cen" style="display:none" class="head_Icn"><span class="nme cpo hdBlk"></span></li> <li id="sell-center" style="display:none"></li><li id="help-center" style="display:none"><span class="nme help_w1"><a href="https://help.indiamart.com/"><i class="h_ic13"></i>Help</a><ul class="heldrdwn"><p class="cur_pt">Find answers to your queries</p>
+<li class="help-desk hMb15 wli cpo">
+<a href="https://help.indiamart.com/buyer-help/">
+<span class="icn-Cart">
+     <i class="h_ic28 inHbg"></i>
+</span>For <b class="Fnt-Wt">Buying</b></a>
+   </li>
+		<li class="help-desk hMb15 wli cpo">
+        <a href="https://help.indiamart.com/seller-help/">
+        <span class="icn-shp">
+             <i class="h_ic29 inHbg"></i>
+        
+        </span>For <b class="Fnt-Wt">Selling</b></a></li>
+<li class="help-desk hMb15 cpo"><a href="https://help.indiamart.com/user-feedback/" onclick="gaTrack('Feedback');">
+<span class="icn-Cart">
+   
+   <i class="h_ic30 inHbg"></i></span>Share your Feedback</a></li>
+		<li class="help-desk hMb15 cpo"><a href="https://help.indiamart.com/complaint-registration/" onclick="gaTrack('Complaint');">
+		<span class="icn-Cart"><i class="h_ic31 inHbg"></i>
+</span>Raise a Complaint</a></li>
+<li id="cccare" class="cur_pt"><span class="Vrt_t Icn_m1"><i class="h_ic32 inHbg"></i></span>
+    </span><span class="Dsp_ib cur_pt">Email us on<b class="Dsp_b Fnt-Wt">customercare@indiamart.com</b></span></li><li id="cccare" class="cur_pt">
+	<span class="icn-Cart-1"> <i class="h_ic33 inHbg"></i></span>
+
+Call us at <b class="Fnt-Wt">096-9696-9696</b></li>
+<li class="help-desk hMb15 cpo" id="chatwithus">
+<span class="icn-Cart">
+   <i class="h_ic35 inHbg"></i></span>Chat With us</li>
+<li id="cccare" class="cur_pt"><span class="icn-Cart-1"> <i class="h_ic33 inHbg"></i></span>
+Covid-19 Helpline: <b class="Fnt-Wt">083-8383-8383</b></li>
+</ul></span></li><li id="message-center" style="display:none"></li> <li class="has-sub hgtb" id="lshead"><i class="ico-usr"></i><a class="rmv" href="https://my.indiamart.com">Sign In</a></li> </ul></div><div class="clear"> </div></div></div></div> </div> <div class="ch_clb" id="loginstrip"></div></div> <div id="sign_in"></div> <div id="bl_overlay_layer_v2"></div> <div id="boxes"></div><div id="miclag"></div><div id="blkSrn" class="hd_blkSrn"></div><div id="blk_ctpup" style="display:none"><div id ="chat_popup"></div></div></header>
+<script>
+var hd_iploc='',hd_pfmod='';
+var hd_search="iploc=";
+var hd_webLoc=location.hostname;
+var hd_UrlPri = hd_webLoc.match(/^dev/) ? "dev-" : (hd_webLoc.match(/^stg/)) ? "stg-" : "";
+var page_sel = location.hostname.indexOf(hd_UrlPri + "seller") == 0 ? 1 : 0;
+var page_trd = location.hostname.indexOf(hd_UrlPri + "trade") == 0 ? 1 : 0;
+var page_tend = location.hostname.indexOf(hd_UrlPri + "tenders") == 0 ? 1 : 0;
+if (document.cookie.length > 0){
+offset = document.cookie.indexOf(hd_search);
+if (offset != -1){
+    offset += hd_search.length;
+    end = document.cookie.indexOf(";", offset);
+    if (end == -1)
+    end = document.cookie.length;
+    hd_iploc=unescape(document.cookie.substring(offset, end));
+}
+}
+var hd_resp_ip ='';
+if(hd_iploc != ''){var val = "|" + hd_iploc + "|";
+    var hd_pattern = new RegExp(".*?\|gip=([^|]*).*|.*");
+    hd_resp_ip= val.replace(hd_pattern, "$1");
+}
+var hd_usr_agnt = navigator.userAgent;
+if((hd_iploc == '' || hd_resp_ip == '') && (!hd_usr_agnt.match(/googlebot|mediapartners/)))
+{
+    if ((typeof glmodid)!=="undefined"&&glmodid!=null)
+        hd_pfmod=glmodid;
+    else 
+        hd_pfmod="PRODDTL";
+    var appSName = hd_webLoc.match(/^dev/)?"https://stg-geoip.imimg.com/":(hd_webLoc.match(/^stg/))?"https://stg-geoip.imimg.com/":"https://geoip.imimg.com/";
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+        if (this.readyState == 4){
+            if(this.status == 200) {
+                s=JSON.parse(this.responseText);
+                if(s != null && typeof(s.Response)!="undefined" && s.Response.Code === 200 && s.Response.Status=== 'Success'){
+                    var resp = s.Response.Data;
+                    iplocstat='s';
+                    var cityName = (resp.geoip_cityname == 'null' || typeof resp.geoip_cityname == 'undefined'|| resp.geoip_cityname == 'undefined' )?'':resp.geoip_cityname;
+                    var cityId = (resp.geoip_cityid == 'null' ||typeof resp.geoip_cityid == 'undefined'||  resp.geoip_cityid == 'undefined' )?'':resp.geoip_cityid;
+                    hd_iploc="gcniso="+resp.geoip_countryiso+"|gcnnm="+resp.geoip_countryname+"|gctnm="+cityName+"|gctid="+cityId+"|gacrcy="+resp.geoip_accuracy+"|gip="+resp.geoip_ipaddress+"|gstnm="+resp.geoip_statename;
+                    var d = new Date();
+                    d.setTime(d.getTime() + (3*60*60*1000));
+                    var expires = "expires="+ d.toUTCString();
+                    document.cookie = 'iploc=' + hd_iploc + ';' + expires + '; domain=.indiamart.com; path=/';
+                    changeselect_city(cityName);
+                }
+            }
+        };
+    }
+    xhttp.open("POST", appSName+'api/location.php', true);
+    xhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    xhttp.send("modid="+hd_pfmod+"&token=imobile@15061981");
+}
+var hd_ct=readCookie('hd_ctval');
+var ipl = readCookie('iploc');
+var hd_city=getparamVal(ipl,'gctnm');
+if(!hd_ct&&ipl){
+    changeselect_city(hd_city);
+}
+function getparamVal(cookieStr, key) {
+	if (cookieStr > "") {
+		var val = "|" + cookieStr + "|";
+		var pattern = new RegExp(".*?\\|" + key + "=([^|]*).*|.*");
+		return val.replace(pattern, '$1');
+	} else {
+		return "";
+	}
+}
+function readCookie(name) {
+	var search = name + "=";
+	if (document.cookie.length > 0) {
+		offset = document.cookie.indexOf(search);
+		if (offset != -1) {
+			offset += search.length;
+			end = document.cookie.indexOf(";", offset);
+			if (end == -1)
+				end = document.cookie.length;
+			return unescape(document.cookie.substring(offset, end));
+		}
+	}
+	return "";
+}
+function hdr_getusercity(city){
+    var gloc =readCookie('GeoLoc');
+    gcity=getparamVal(gloc,'lg_ct');
+    var city =city||gcity||"All India";
+    city=(city==''||city=="null"||city==null)?'All India':city;
+	city=city.replace('-', ' ');
+    var splitcity = city.toLowerCase().split(' ');
+    for (var i = 0; i < splitcity.length; i++) {
+        splitcity[i] = splitcity[i].charAt(0).toUpperCase() + splitcity[i].substring(1);  
+    }
+    city = splitcity.join(' ');
+    var hddrpdn2 = '<button id="hd_searchPlace" class="hd_cFl"><span id="hd_usercity">'+city+'</span></button><div id="city_hold" class="hd_cSrb"><label for="hd_city_sugg"></label><input type="text" id="hd_city_sugg" placeholder ="Enter City" value ="Enter City" class="srin ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true" onkeyup="AlInd_Op()"><div class="hd_alop" id="all_India" >All India</div></div>';
+    document.getElementsByClassName("select-wrapper")[0].classList.add("hd_cFMn");
+    document.getElementsByClassName("select-wrapper")[0].innerHTML = hddrpdn2;
+    document.getElementsByClassName("select-wrapper")[0].style.display = "block";
+}
+function changeselect_city(city) {
+    var cookie = readCookie('ImeshVisitor');
+    var imurldata = getparamVal(cookie, 'utyp');
+    if (!(page_sel || page_trd || page_tend)&&!((imurldata == "P") && (window.location.href.indexOf("easybuy") == -1))) {
+        var hd_ct =readCookie('hd_ctval');
+        if(!hd_ct)
+            hdr_getusercity(city);
+    }
+}
+
+function setcountry()
+{
+    var iploc='',resp_ip='',cont_code='';
+    var search="iploc=";
+    if (document.cookie.length > 0){
+        offset = document.cookie.indexOf(search);
+        if (offset != -1){
+            offset += search.length;
+            end = document.cookie.indexOf(";", offset);
+            if (end == -1) 
+                end = document.cookie.length;
+            iploc=unescape(document.cookie.substring(offset, end));
+        }
+    }
+    if(iploc != ''){
+        var val = "|" + iploc + "|";
+        var pattern = new RegExp(".*?\|gcniso=([^|]*).*|.*");
+        cont_code= val.replace(pattern, "$1");
+        page.countryCode = (typeof(cont_code)!="undefined" && cont_code != '') ? cont_code :'';
+    }
+    else
+    {
+        var pdpDate = new Date(); 
+        var pdpgmt = -pdpDate.getTimezoneOffset() / 60;
+        if (pdpgmt != 5.5)
+            cont_code = 'OTHER';
+        else
+            cont_code = 'IN';
+        page.countryCode = (typeof(cont_code)!="undefined" && cont_code != '') ? cont_code :'';
+    }
+    if(typeof(cont_code)!="undefined" && cont_code != '' && cont_code == 'IN')
+    {
+        var inpt = document.getElementsByClassName('duet');
+        for (var i = 0, len = inpt.length; i < len; i++) {
+            var mob_id = inpt[i];
+            var content = mob_id.innerHTML;
+            if(content.match(/^\+91/)){
+                content = content.replace('+91-','0');
+                mob_id.innerHTML=content;
+            }
+        }
+    }
+    else if(typeof(cont_code)!="undefined" && cont_code != '' && cont_code != 'IN')
+    {
+        var inpt = document.getElementsByClassName('duet');
+        for (var i = 0, len = inpt.length; i < len; i++) {
+            var mob_id = inpt[i];
+            var content = mob_id.innerHTML;
+            if(content.match(/^0/)){
+                content = content.replace('0','+91-');
+                mob_id.innerHTML=content;
+            }
+        }
+    }
+}
+
+if (window.addEventListener)
+    window.addEventListener("load", setcountry, false);
+else if (window.attachEvent)
+    window.attachEvent("onload", setcountry);
+else 
+    window.onload = setcountry;
+</script><div id="img_popProf" class="FM_ps_t FM_ps_b FM_ps_l FM_ps_r FM_ds4"></div><div class="enq_blform FM_ds4">  <style>.bedsnone{display:none;}</style>
+   <div id="t0901_bewrapper" class="be-frmwrap bedsnone"><div id="t0901_blkwrap" class="be-blckbg"></div><div class="be-frmcont"><div id="t0901_thankDiv" class="be-mcont bezid bedsnone"></div><div id="t0901_mcont" class="be-mcont bezid"> <div id="t0901_leftS" class="be-Lsc"><div id="t0901_leftsection"></div></div><div id="t0901_leftR" class="be-Rsc  be-frmpop"><div id="t0901_cls" class="be-cls">X</div><div id="t0901_rightsection"></div><div id="t0901_byrinfo" class="befs14 beinfo eqBotm bedsnone"></div><input type="hidden" id="t0901_tmpId"></div></div></div></div>         </div><div class="wrapper fcp_m1 FM_p0">
+    <div class="FM_Head FM_pr FM_bg0 FM_p2 FM_p52 ">
+        <div class="FM_ds5 FM_w1">
+            <div class="FM_ds11 FM_ds5 FM_ds13 FM_w80 FM_m4">
+                <div class="FM_ds5 FM_ds7 FM_ds12 FM_m3"><div class="FM_ds11 FM_m6 FM_ds16"><h1 class="FM_C0 FM_lh1 FM_Lsp1 FM_f28 FM_bo FM_cpdef"><a href="javascript:void(0);">Shandar Shoe Center</a></h1><div class="FM_Lsp1 FM_m5 FM_ds5 FM_ds7"><span class="FM_ds1 FM_vm FM_Adic"><svg  xmlns="http://www.w3.org/2000/svg" width="20" height="18" viewBox="0 0 18 18">
+			        <g  data-name="Group 2198" transform="translate(-172 -287)">
+				     <circle data-name="Ellipse 103" cx="9" cy="9" r="9" transform="translate(173 287)" fill="#777"/>
+				     <path  data-name="Path 1044" d="M5.71,1.679a3.286,3.286,0,0,0-4.728,0A3.762,3.762,0,0,0,.714,6.407L3.39,10.243,6.067,6.407A4.036,4.036,0,0,0,5.71,1.679ZM3.39,5.158a1.071,1.071,0,0,1,0-2.141A.984.984,0,0,1,4.461,4.087,1.085,1.085,0,0,1,3.39,5.158Zm0,0" transform="translate(178.59 291.182)" fill="#fff"/>
+			        </g>
+			       </svg>	</span><span class="FM_p32" >Latur, Maharashtra</span>
+                               
+                <p class="FM_gst FM_ds15 FM_ds5"><span class="FM_c15 FM_m49">|</span><span class="FM_gst_l FM_ds1">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+                            <g data-name="Group 2121" transform="translate(-1303 -208)">
+                                <circle cx="8.5" cy="8.5" r="8.5" fill="#36d336" data-name="Ellipse 102" transform="translate(1303 208)"></circle>
+                                <path d="M4380.563 5908.823l-1.076 1.076-4.009 4.011-2.033-2.032-.276-.278-.545.547-.544.545 3.4 3.4 6.176-6.177zm0 0" fill="#e9e9e9" data-name="Path 1028" transform="translate(-3065.596 -5695.823)"></path>
+                            </g>
+                        </svg>
+                    </span>GST <span class="FM_bo">&nbsp;27FEXPS8797Q1ZG</span>
+                    
+                </p>
+</div></div></div></div><div class="fcp_raw-item FM_ds11 FM_ds5 FM_w2 FM_ds15"  ><span onclick="check_pnsno_display({'catId':'-1',    'mcatId':'-1','mcatName':'','displayImage':'','zoomImage':'','prodServ':'','prodName':'','vidUrl':'','prodDispName':'','price':'','reqSent':'','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'0','modrefType':'company','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'1','tempId':'09','instId':'01','heading':'Send SMS','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Click to Call','ctaType':'Message','pageType':'home','section':'Header','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'0','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' },1);" class="FM_txc FM_Btn FM_bRds FM_f16 FM_p10 FM_cp FM_m21">
+
+<span class="FM_ds7 FM_ds13 FM_ds5">
+<span class="FM_mob_l FM_ds1"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 21 20.984"><g data-name="Group 1674" transform="translate(-1106 -345)">
+<path d="M15.971 58.013a1.471 1.471 0 0 0-2.224 0c-.52.516-1.04 1.031-1.551 1.556a.306.306 0 0 1-.428.079c-.336-.184-.695-.332-1.018-.533a16.132 16.132 0 0 1-3.889-3.54 9.214 9.214 0 0 1-1.394-2.233.32.32 0 0 1 .079-.411c.52-.5 1.027-1.018 1.538-1.534a1.477 1.477 0 0 0 0-2.277c-.406-.411-.813-.813-1.219-1.224s-.835-.843-1.259-1.259a1.481 1.481 0 0 0-2.224 0c-.524.516-1.027 1.044-1.56 1.551a2.532 2.532 0 0 0-.8 1.709 7.239 7.239 0 0 0 .558 3.121 18.933 18.933 0 0 0 3.36 5.6A20.8 20.8 0 0 0 10.828 64a9.96 9.96 0 0 0 3.815 1.11 2.8 2.8 0 0 0 2.4-.913c.446-.5.948-.953 1.42-1.429a1.487 1.487 0 0 0 .009-2.264q-1.247-1.248-2.501-2.491z" fill="#03776d" data-name="Path 253" transform="translate(1105.994 300.863)"></path>
+<path d="M242.591 102.214l1.613-.275A7.238 7.238 0 0 0 238.081 96l-.227 1.621a5.594 5.594 0 0 1 4.737 4.593z" fill="#03776d" data-name="Path 254" transform="translate(878.541 253.195)"></path>
+<path d="M249.8 3.4a11.89 11.89 0 0 0-6.819-3.4l-.227 1.621a10.375 10.375 0 0 1 8.779 8.508l1.613-.275A11.977 11.977 0 0 0 249.8 3.4z" fill="#03776d" data-name="Path 255" transform="translate(873.854 345)"></path>
+</g>
+</svg>
+</span>
+ <span id="header_pnsno" data-pnsno="9823287607" class="FM_c4 FM_bo">View Mobile Number</span> 
+</span></span></div></div><div class="FM_ds5 FM_w1 FM_ds8"><div class="FM_ds11 FM_ds5 FM_w80 FM_m4">
+ <div class="FM_ds5 FM_ds12 FM_m5">
+<div class="FM_bg6 FM_nav FM_ds12 FM_c2 FM_ds16 FM_m3">
+<ul class="FM_ds5 FM_f16 FM_w1">
+<li class="FM_c3 active Active_blue FM_cpdef">
+<a href="javascript:void(0);">Home</a>
+</li><li class=" FM_pr dd" onclick="reqFormGATrack('in-menu-dropdown-FCP','Category-click','FCP','');" >
+<a class="" href="products.html">Products & Services</a><div class="ddnav FM_pa zx1 FM_ps_l FM_ds6 FM_bs FM_ds5 ddnav_4"><ul  ><li class="FM_f16 FM_bo"><a href="products.html#ladies-shoes" class="Fm_lh18 FM_Db">Ladies Shoes</a></li><li class="FM_f16 FM_bo"><a href="products.html#kids-shoes" class="Fm_lh18 FM_Db">Kids Shoes</a></li><li class="FM_f16 FM_bo"><a href="products.html#sports-shorts" class="Fm_lh18 FM_Db">Sports Shorts</a></li><li class="FM_f16 FM_bo"><a href="products.html#formal-shoe" class="Fm_lh18 FM_Db">Formal Shoe</a></li></ul><ul  ><li class="FM_f16 FM_bo"><a href="products.html#formal-shoes" class="Fm_lh18 FM_Db">Formal Shoes</a></li><li class="FM_f16 FM_bo"><a href="products.html#mens-shoes" class="Fm_lh18 FM_Db">Mens Shoes</a></li><li class="FM_f16 FM_bo"><a href="products.html#ladies-shoe" class="Fm_lh18 FM_Db">Ladies Shoe</a></li><li class="FM_f14 FM_bo1"><a href="products.html" class="Fm_lh18 FM_Db FM_Lsp FM_td FM_bRds FM_p10 FM_Txtn FM_pr FM_zx1">View All Products</a></li></ul></div>
+</li>
+<li class=" " onclick="reqFormGATrack('in-menu-dropdown-FCP','Profile-click','FCP','');">
+<a class="" href="#aboutus">About Us</a>
+</li>
+                         <li class="" onclick="reqFormGATrack('in-menu bar-FCP','EnquiryPage-click','FCP','');">
+<a href="enquiry.html">Contact Us</a>
+</li>
+</ul>
+</div></div></div><div class="FM_ds11 FM_ds5 FM_w2 FM_BUtn"><span class="FM_txc FM_Btn1 FM_bRds Fm_lh5 FM_bo FM_f16 FM_m8 FM_ds13 FM_ds7 FM_ds5 FM_cp FM_m8 FM_pb10 FM_p34 FM_p19 FM_p2" onclick="open_enq_bl_pop({'catId':'-1',    'mcatId':'-1','mcatName':'','displayImage':'','zoomImage':'','prodServ':'','prodName':'','vidUrl':'','prodDispName':'','price':'','reqSent':'','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'0','modrefType':'company','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'1','tempId':'09','instId':'01','heading':'Send Email','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Send Email','ctaType':'message','pageType':'home','section':'Body','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'0','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' },1);" ><span class="FM_seHd FM_ds1"><svg xmlns="http://www.w3.org/2000/svg" width="23.2" height="17" viewBox="0 0 25.2 18">
+<defs>
+</defs>
+<g  transform="translate(0 -2)">
+<g  data-name="Group 2163" transform="translate(0 2)">
+<path  d="M12.347 10.213L9.23 7.484.316 15.125a1.825 1.825 0 0 0 1.244.488h21.575a1.811 1.811 0 0 0 1.238-.488l-8.908-7.641z" fill="#fff" data-name="Path 1040" transform="translate(.253 2.387)"></path>
+<path  d="M24.377 2.488A1.813 1.813 0 0 0 23.133 2H1.558a1.805 1.805 0 0 0-1.24.491L12.346 12.8z" fill="#fff" data-name="Path 1041" transform="translate(.254 -2)"></path>
+<path  d="M0 2.878v14.954l8.7-7.392z" fill="#fff" data-name="Path 1042" transform="translate(0 -1.298)"></path>
+<path  d="M9.167 10.442l8.7 7.393V2.875z" fill="#fff" data-name="Path 1043" transform="translate(7.334 -1.3)"></path>
+</g>
+</g>
+</svg>
+</span>Send Email</span></div></div></div></div><main class="wrapper fcp_m1 FM_bg0"><div class="FM_p52 FM_cb FM_bg0"></div><div class="first-sec FM_ds5 FM_pr FM_ds17  "><div class="enq_blform FM_ds4">       
+<div id = "t0801_chatBL" class="cbl_wrp cbl_br8 cbl_df cbl_fdc be-frmwrap be-frmwrap bedsnone">
+
+
+
+
+
+
+
+      <div id = t0801_blchatheader class="cbl_hed cbl_df cbl_p025 cbl_aic cbl_br8 cbl_bg1">
+          <div id="t0801_prodimg" class="be-prdimg cbl_img cbl_df cbl_aic cbl_jcc cbl_ofh"></div>
+          <div class="cbl_fs16 cbl_flx1" id = "t0801_productname">
+             
+              <!--<div class="cbl_msg dn" id ='t0801chngPrdDiv'><span id ="t0801_changeProduct" class="cbl_chng_prd cbl_clr1 cbl_cp " onclick = "changeProduct('0801')">Change Product</span></div>-->
+          </div>
+
+
+        <div class="cbl_pr cbl_clsgrp">
+            <div id ="t0801_cls" class="cbl_closbtn cbl_cp cbl_pa"></div>
+            <svg class="cbl_cross"><use xlink:href="#cblcross"></use></svg>     
+        </div>  
+          
+      </div>
+
+<!--Chat BL OTB Header End-->
+
+<!--Chat BL OTB Body-->
+
+     <div id = "t0801_blchatbody" class="cbl_windw cbl_df cbl_ofh">
+     <div class="cbl_scrl" id = "t0801_chatScroll"><span></span></div>
+          <div class="cbl_windw_iner cbl_df cbl_fdc " id = "t0801_scroll">
+              <div class="cbl_ques cbl_hi dn" id = "t0801hi" isstatic="yes"><div class="txt_area  cbl_bg1 " id = "t0801_hiid" >Hi</div></div>
+              <div id = "t0801_new_chatbl" class = "cbl_ques_grp"></div>
+          </div>
+      </div>
+
+
+<!--Chat BL OTB Body End-->
+<div id="t0801_tCond" class=" cbl_tnc cbl_pa bedsnone"><input type="checkbox" class="bemt2" onclick="checkedTNC('0801')" id="t0801_tCondCheckBox"><span class="bevT bedblk">I agree to the <a href="https://www.indiamart.com/terms-of-use.html" target="_blank" class="betrmt">terms</a> and <a href="https://www.indiamart.com/privacy-policy.html" target="_blank" class="betrmt">privacy policy</a></span></div>
+<div id="t0801_fBtn" class="bepr">
+   <div class="backdiv bedsnone" id="t0801_backdiv"><input value="Back" class="be-backbtn"  id="t0801_be-backbtn" type="submit"></div>
+   <!--<div class="befstgo bedsnone" id="t0801_submitdiv"><input value="Go" class="befstbtn"  id="t0801_submit" type="submit" style="background-color:#00a699"></div>-->
+</div>
+<!--Chat BL OTB Footer-->
+
+     <div id="t0801_blchatfooter" class="cbl_inpt cbl_pr cbl_df cbl_aic"> <!--focus-->
+          <div class="cbl_whtbx cbl_pa cbl_bg1 cbl_br10"></div>
+          <div id = "t0801cbl_bluline" class="cbl_bluline cbl_pa cbl_br10"></div>
+
+
+
+          <div class="cbl_dtls cbl_typhere dn"><input type="text" readonly="" name="type_field" value="" class="cbl_name " placeholder="Type Here..."></div>
+
+        <div id ="t0801_newblchatReply" class = "cbl_dtls"></div>
+
+        <div class="cbl_error cbl_pa" data-role=""><span id="t0801verify_error"></span></div>
+
+        <div class="cbl_vrfy cbl_pa dn" data-role=""><span id="t0801cbl_msg">Verifying...</span></div>
+           
+        
+        
+        <div class="cbl_sbmt_btn cbl_zi3 cbl_pa cbl_df cbl_aic cbl_jcc">
+            <button id = "t0801_submit" class="cbl_sbmtbt cbl_pa cbl_cp"></button> 
+            <svg class="cbl_sbmt"><use xlink:href="#sendbtn"></use></svg>
+        </div>           
+      </div>
+  </div>
+    <div class="t0801blk_scrn blk_scrn dn"></div>  
+    <div id="t0801_bl_form_wrapper_cta" class="chat-blCta bedsnone"><span id="t0801message_indicator" class="chat-ntify">1</span><i class="chat-CinBg chat-blCin"></i><p class="chat-rqtx"><span>Have a requirement?</span><br><span class="getbestprice_span"> 
+    Get Best Price</span> </p></div> 
+    
+    <svg style= "display:none" xmlns="http://www.w3.org/2000/svg">
+        <symbol viewBox="0 0 18 18" id="cblcheck">
+        <path d="M0,9a9,9,0,1,1,9,9A9.01,9.01,0,0,1,0,9ZM1,9A8,8,0,1,0,9,1,8.01,8.01,0,0,0,1,9Zm7.377,2.888a.6.6,0,0,1-.366-.134L5.4,9.642a.6.6,0,0,1,.76-.939l2.2,1.784L11.828,6.06a.6.6,0,1,1,.951.743l-3.8,4.865a.605.605,0,0,1-.6.22Z"></path></symbol><symbol id="cblcross" viewBox="0 0 21.213 21.213"><path d="M-632.745-856.141l-9.9,9.9-.707-.706,9.9-9.9-9.9-9.9.707-.707,9.9,9.9,9.9-9.9.707.707-9.9,9.9,9.9,9.9-.707.706Z" transform="translate(643.352 867.454)"></path></symbol><symbol viewBox="0 0 35 30" id="sendbtn"><path d="M0,68.25l35-15-35-15V49.917L25,53.25,0,56.583Z" transform="translate(0 -38.25)"></path></symbol><symbol viewBox="0 0 10 7" id="dwnarow"><path d="M5,0l5,7H0Z" transform="translate(10 7) rotate(180)"></path></symbol>
+    </svg></div><script  src='//utils.imimg.com/suggest/js/suggest.js'></script><div class="FM_bs FM_w1 FM_hp"><div class="FM_SldrWAbt FM_pr FM_NSlde "><div class="FM_Abt FM_m56 FM_m11 FM_cb"><div class="FM_txc FM_mb10">
+<h2 class="FM_f26 FM_c1"><p id="aboutus" class="namePlace-1 FM_pa FM_ps_r FM_ps_l"></p><a href="#aboutus" class="FM_pr FM_pb5">About Us<span class="FM_bgH prd_hd FM_ps_b FM_ps_l FM_ps_r FM_mAuto FM_pa"></span></a></h2>
+</div><div class="FM_f16 Fm_lh3 FM_m9 FM_txc pl30 pr30"><span class="FM_Db FM_H_abt-1 FM_ovh FM_c7" id="homePageDesc" >Shandar Shoe Center - Retailer of ladies shoes, formal shoes & kids shoes in Latur, Maharashtra.</span></div><div class="FM_ds5 FM_ds6 FM_ds9 FM_ds13"><div class="FM_m9 FM_m18 FM_AaRt">
+<div class="FM_bg5 FM_w68 FM_h68 FM_bor3 fcp_m1 FM_ds1 FM_vm FM_m4">
+<span class="FM_ds5 FM_ds7 FM_ds13 FM_h68">
+<svg class="FM_nob"><use xlink:href="#natureof"></use></svg>
+</span>
+</div>
+<div class="FM_ds1 FM_vm">
+<p class="FM_c6 FM_f15 FM_m13">Nature of Business</p>
+<span class="Fm_lh18 FM_f16 FM_c1">Retailer</span>
+</div>
+</div><div class="FM_m9 FM_m18 FM_AaRt">
+
+									<div class="FM_bg5 FM_w68 FM_h68 FM_bor3 fcp_m1 FM_ds1 FM_vm FM_m4">	<span class="FM_ds5 FM_ds7 FM_ds13 FM_h68">
+									<svg class="FM_ls"><use xlink:href="#legalstatus"></use></svg>
+
+
+	</span></div>
+	
+	<div class="FM_ds1 FM_vm">
+<p class="FM_c6 FM_f15 FM_m13">Legal Status of Firm</p>
+<span class="Fm_lh18 FM_f16 FM_c1">Individual - Proprietor</span>
+</div>
+									
+
+								</div><div class="FM_m9 FM_m18 FM_AaRt">
+
+									<div class="FM_bg5 FM_w68 FM_h68 FM_bor3 fcp_m1 FM_ds1 FM_vm FM_m4">
+                        <span class="FM_ds5 FM_ds7 FM_ds13 FM_h68 FM_Stk1">
+                        <svg class="FM_gstN"><use xlink:href="#gst"></use></svg>
+</span>	</div>
+									
+									<div class="FM_ds1 FM_vm">
+<p class="FM_c6 FM_f15 FM_m13">GST Number</p>
+<span class="Fm_lh18 FM_f16 FM_c1">27FEXPS8797Q1ZG</span>
+</div>
+									
+									
+								</div></div></div></div><div class="FM_m11 FM_m12 FM_PRD FM_snglCat FM_p53 FM_p2"><div class="FM_txc FM_m42">
+<span class="FM_f26 FM_c1"></span>
+<h2 class="FM_f26 FM_c1"><a href="products.html" class="FM_pr FM_pb5">Products & Services<span class="FM_bgH prd_hd FM_ps_b FM_ps_l FM_ps_r FM_mAuto FM_pa"></span></a></h2></div><div class="FM_Sin-dR FM_pr FM_ds5 FM_ds6 FM_ds10 FM_m9 FM_m10"><div class="FM_p22 FM_br5 FM_bor7 FM_pcn  FM_npdpP FM_pr"><div class="FM_prdpge FM_bg0"><p id="ladies-shoes" class="namePlace FM_pa FM_ps_r FM_ps_l FM_zx2" ></p><div class="Fm_pName FM_mb15"><h2 class="FM_f22 FM_mb12 FM_w1"><a   class="FM_c1 FM_Lsp1 Fm_lh5 ">Ladies Shoes</a></h2></div><div class="FM_txc FM_gbqBtn"><span class="FM_c3 FM_f18 FM_Lsp FM_cp" onclick="open_enq_bl_pop({'catId':'145',    'mcatId':'77718','mcatName':'','displayImage':'','zoomImage':'','prodServ':'P','prodName':'Ladies Shoes','vidUrl':'','prodDispName':'','price':'','reqSent':'Yes','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'20962893755','modrefType':'product','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'Get Price & Details for Ladies Shoes','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Get Price & Details','ctaType':'Price','pageType':'home','section':'Body','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' });">
+<span class="FM_ds5 FM_ds7 FM_ds13">
+		
+	    <span>Get Price & Details</span>
+	</span>
+
+
+</span></div></div></div><div class="FM_p22 FM_br5 FM_bor7 FM_pcn fcp_m2 FM_npdpP FM_pr"><div class="FM_prdpge FM_bg0"><p id="formal-shoes" class="namePlace FM_pa FM_ps_r FM_ps_l FM_zx2" ></p><div class="Fm_pName FM_mb15"><h2 class="FM_f22 FM_mb12 FM_w1"><a   class="FM_c1 FM_Lsp1 Fm_lh5 ">Formal Shoes</a></h2></div><div class="FM_txc FM_gbqBtn"><span class="FM_c3 FM_f18 FM_Lsp FM_cp" onclick="open_enq_bl_pop({'catId':'145',    'mcatId':'6570','mcatName':'','displayImage':'','zoomImage':'','prodServ':'P','prodName':'Formal Shoes','vidUrl':'','prodDispName':'','price':'','reqSent':'Yes','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'20962894473','modrefType':'product','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'Get Price & Details for Formal Shoes','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Get Price & Details','ctaType':'Price','pageType':'home','section':'Body','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' });">
+<span class="FM_ds5 FM_ds7 FM_ds13">
+		
+	    <span>Get Price & Details</span>
+	</span>
+
+
+</span></div></div></div><div class="FM_p22 FM_br5 FM_bor7 FM_pcn  FM_npdpP FM_pr"><div class="FM_prdpge FM_bg0"><p id="kids-shoes" class="namePlace FM_pa FM_ps_r FM_ps_l FM_zx2" ></p><div class="Fm_pName FM_mb15"><h2 class="FM_f22 FM_mb12 FM_w1"><a   class="FM_c1 FM_Lsp1 Fm_lh5 ">Kids Shoes</a></h2></div><div class="FM_txc FM_gbqBtn"><span class="FM_c3 FM_f18 FM_Lsp FM_cp" onclick="open_enq_bl_pop({'catId':'145',    'mcatId':'45553','mcatName':'','displayImage':'','zoomImage':'','prodServ':'P','prodName':'Kids Shoes','vidUrl':'','prodDispName':'','price':'','reqSent':'Yes','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'20962896773','modrefType':'product','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'Get Price & Details for Kids Shoes','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Get Price & Details','ctaType':'Price','pageType':'home','section':'Body','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' });">
+<span class="FM_ds5 FM_ds7 FM_ds13">
+		
+	    <span>Get Price & Details</span>
+	</span>
+
+
+</span></div></div></div><div class="FM_p22 FM_br5 FM_bor7 FM_pcn fcp_m2 FM_npdpP FM_pr"><div class="FM_prdpge FM_bg0"><p id="mens-shoes" class="namePlace FM_pa FM_ps_r FM_ps_l FM_zx2" ></p><div class="Fm_pName FM_mb15"><h2 class="FM_f22 FM_mb12 FM_w1"><a   class="FM_c1 FM_Lsp1 Fm_lh5 ">Mens Shoes</a></h2></div><div class="FM_txc FM_gbqBtn"><span class="FM_c3 FM_f18 FM_Lsp FM_cp" onclick="open_enq_bl_pop({'catId':'145',    'mcatId':'11996','mcatName':'','displayImage':'','zoomImage':'','prodServ':'P','prodName':'Mens Shoes','vidUrl':'','prodDispName':'','price':'','reqSent':'Yes','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'20962897555','modrefType':'product','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'Get Price & Details for Mens Shoes','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Get Price & Details','ctaType':'Price','pageType':'home','section':'Body','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' });">
+<span class="FM_ds5 FM_ds7 FM_ds13">
+		
+	    <span>Get Price & Details</span>
+	</span>
+
+
+</span></div></div></div><div class="FM_p22 FM_br5 FM_bor7 FM_pcn  FM_npdpP FM_pr"><div class="FM_prdpge FM_bg0"><p id="sports-shorts" class="namePlace FM_pa FM_ps_r FM_ps_l FM_zx2" ></p><div class="Fm_pName FM_mb15"><h2 class="FM_f22 FM_mb12 FM_w1"><a   class="FM_c1 FM_Lsp1 Fm_lh5 ">Sports Shorts</a></h2></div><div class="FM_txc FM_gbqBtn"><span class="FM_c3 FM_f18 FM_Lsp FM_cp" onclick="open_enq_bl_pop({'catId':'222',    'mcatId':'96324','mcatName':'','displayImage':'','zoomImage':'','prodServ':'P','prodName':'Sports Shorts','vidUrl':'','prodDispName':'','price':'','reqSent':'Yes','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'20962900548','modrefType':'product','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'Get Price & Details for Sports Shorts','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Get Price & Details','ctaType':'Price','pageType':'home','section':'Body','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' });">
+<span class="FM_ds5 FM_ds7 FM_ds13">
+		
+	    <span>Get Price & Details</span>
+	</span>
+
+
+</span></div></div></div><div class="FM_p22 FM_br5 FM_bor7 FM_pcn fcp_m2 FM_npdpP FM_pr"><div class="FM_prdpge FM_bg0"><p id="ladies-shoe" class="namePlace FM_pa FM_ps_r FM_ps_l FM_zx2" ></p><div class="Fm_pName FM_mb15"><h2 class="FM_f22 FM_mb12 FM_w1"><a   class="FM_c1 FM_Lsp1 Fm_lh5 ">Ladies Shoe</a></h2></div><div class="FM_txc FM_gbqBtn"><span class="FM_c3 FM_f18 FM_Lsp FM_cp" onclick="open_enq_bl_pop({'catId':'145',    'mcatId':'69223','mcatName':'','displayImage':'','zoomImage':'','prodServ':'P','prodName':'Ladies Shoe','vidUrl':'','prodDispName':'','price':'','reqSent':'Yes','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'20962903512','modrefType':'product','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'Get Price & Details for Ladies Shoe','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Get Price & Details','ctaType':'Price','pageType':'home','section':'Body','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' });">
+<span class="FM_ds5 FM_ds7 FM_ds13">
+		
+	    <span>Get Price & Details</span>
+	</span>
+
+
+</span></div></div></div><div class="FM_p22 FM_br5 FM_bor7 FM_pcn  FM_npdpP FM_pr"><div class="FM_prdpge FM_bg0"><p id="formal-shoe" class="namePlace FM_pa FM_ps_r FM_ps_l FM_zx2" ></p><div class="Fm_pName FM_mb15"><h2 class="FM_f22 FM_mb12 FM_w1"><a   class="FM_c1 FM_Lsp1 Fm_lh5 ">Formal Shoe</a></h2></div><div class="FM_txc FM_gbqBtn"><span class="FM_c3 FM_f18 FM_Lsp FM_cp" onclick="open_enq_bl_pop({'catId':'145',    'mcatId':'6570','mcatName':'','displayImage':'','zoomImage':'','prodServ':'P','prodName':'Formal Shoe','vidUrl':'','prodDispName':'','price':'','reqSent':'Yes','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'20962905688','modrefType':'product','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'Get Price & Details for Formal Shoe','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Get Price & Details','ctaType':'Price','pageType':'home','section':'Body','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' });">
+<span class="FM_ds5 FM_ds7 FM_ds13">
+		
+	    <span>Get Price & Details</span>
+	</span>
+
+
+</span></div></div></div><div class="FM_p22 FM_br5 FM_bor7 FM_pcn fcp_m2 FM_npdpP FM_pr"><div class="FM_prdpge FM_bg0"><p id="sports-shoe" class="namePlace FM_pa FM_ps_r FM_ps_l FM_zx2" ></p><div class="Fm_pName FM_mb15"><h2 class="FM_f22 FM_mb12 FM_w1"><a   class="FM_c1 FM_Lsp1 Fm_lh5 ">Sports Shoe</a></h2></div><div class="FM_txc FM_gbqBtn"><span class="FM_c3 FM_f18 FM_Lsp FM_cp" onclick="open_enq_bl_pop({'catId':'714',    'mcatId':'180492','mcatName':'','displayImage':'','zoomImage':'','prodServ':'P','prodName':'Sports Shoe','vidUrl':'','prodDispName':'','price':'','reqSent':'Yes','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'20962916912','modrefType':'product','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'Get Price & Details for Sports Shoe','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Get Price & Details','ctaType':'Price','pageType':'home','section':'Body','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' });">
+<span class="FM_ds5 FM_ds7 FM_ds13">
+		
+	    <span>Get Price & Details</span>
+	</span>
+
+
+</span></div></div></div><div class="FM_p22 FM_br5 FM_bor7 FM_pcn  FM_npdpP FM_pr"><div class="FM_prdpge FM_bg0"><p id="mens-shoe" class="namePlace FM_pa FM_ps_r FM_ps_l FM_zx2" ></p><div class="Fm_pName FM_mb15"><h2 class="FM_f22 FM_mb12 FM_w1"><a   class="FM_c1 FM_Lsp1 Fm_lh5 ">Mens Shoe</a></h2></div><div class="FM_txc FM_gbqBtn"><span class="FM_c3 FM_f18 FM_Lsp FM_cp" onclick="open_enq_bl_pop({'catId':'145',    'mcatId':'11996','mcatName':'','displayImage':'','zoomImage':'','prodServ':'P','prodName':'Mens Shoe','vidUrl':'','prodDispName':'','price':'','reqSent':'Yes','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'20962917697','modrefType':'product','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'Get Price & Details for Mens Shoe','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Get Price & Details','ctaType':'Price','pageType':'home','section':'Body','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' });">
+<span class="FM_ds5 FM_ds7 FM_ds13">
+		
+	    <span>Get Price & Details</span>
+	</span>
+
+
+</span></div></div></div><div class="FM_p22 FM_br5 FM_bor7 FM_pcn fcp_m2 FM_npdpP FM_pr"><div class="FM_prdpge FM_bg0"><p id="kids-shoe" class="namePlace FM_pa FM_ps_r FM_ps_l FM_zx2" ></p><div class="Fm_pName FM_mb15"><h2 class="FM_f22 FM_mb12 FM_w1"><a   class="FM_c1 FM_Lsp1 Fm_lh5 ">Kids Shoe</a></h2></div><div class="FM_txc FM_gbqBtn"><span class="FM_c3 FM_f18 FM_Lsp FM_cp" onclick="open_enq_bl_pop({'catId':'145',    'mcatId':'77671','mcatName':'','displayImage':'','zoomImage':'','prodServ':'P','prodName':'Kids Shoe','vidUrl':'','prodDispName':'','price':'','reqSent':'Yes','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'20962918155','modrefType':'product','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'Get Price & Details for Kids Shoe','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Get Price & Details','ctaType':'Price','pageType':'home','section':'Body','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' });">
+<span class="FM_ds5 FM_ds7 FM_ds13">
+		
+	    <span>Get Price & Details</span>
+	</span>
+
+
+</span></div></div></div></div><div class="fcp_Ad-1 fcp_m1 FM_bor7" id="Below_Our_Product" ><ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-0673059417528889"
+     data-ad-slot="8018396219"></ins></div></div></div><script>
+imgSlide='0';
+
+
+</script>
+<svg xmlns="http://www.w3.org/2000/svg" class="FM_ds4"><symbol id="establish" viewBox="0 0 30 30"><path fill="#2d3192" d="M.092 29.908A.311.311 0 0 1 0 29.684v-2.026a.313.313 0 0 1 .316-.316h.7V2.658h-.7A.313.313 0 0 1 0 2.342V.316A.313.313 0 0 1 .316 0h16.2a.313.313 0 0 1 .316.316v2.026a.311.311 0 0 1-.092.224.308.308 0 0 1-.224.092h-.7v4.43h13.868a.313.313 0 0 1 .225.092.309.309 0 0 1 .091.225V9.43a.313.313 0 0 1-.316.316h-.7v17.6h.7a.313.313 0 0 1 .316.316v2.025a.308.308 0 0 1-.092.224.311.311 0 0 1-.224.092H.313a.309.309 0 0 1-.221-.095zm.54-.541h28.735v-1.392H.633zm18.734-2.024H23.8V21.9h-4.43zm-17.722 0h12.533V9.747h-.7a.313.313 0 0 1-.316-.316V7.405a.313.313 0 0 1 .316-.316h1.713V2.658H1.646zm22.693-5.984a.309.309 0 0 1 .092.224v5.759h3.924V9.747H14.81v17.6h3.924v-5.76a.312.312 0 0 1 .316-.316h5.066a.311.311 0 0 1 .221.088zM13.8 9.114h15.57V7.722H13.8zM.633 2.025H16.2V.633H.633zm11.834 23.924H9.429a.312.312 0 0 1-.316-.316V22.6a.313.313 0 0 1 .087-.23.317.317 0 0 1 .225-.092h3.038a.319.319 0 0 1 .225.092.313.313 0 0 1 .091.225v3.038a.312.312 0 0 1-.313.316zm-2.722-.633h2.4v-2.4h-2.4zm-2.34.633H4.367a.313.313 0 0 1-.316-.316V22.6a.313.313 0 0 1 .092-.225.317.317 0 0 1 .224-.092h3.038a.317.317 0 0 1 .224.092.313.313 0 0 1 .092.225v3.038a.313.313 0 0 1-.313.316zm-2.722-.633h2.405v-2.4h-2.4zm20.95-5.442H22.6a.313.313 0 0 1-.317-.316V16.52a.313.313 0 0 1 .317-.32h3.038a.313.313 0 0 1 .316.317v3.038a.313.313 0 0 1-.313.316zm-2.722-.633h2.4v-2.4h-2.4zm-2.343.633h-3.037a.313.313 0 0 1-.316-.316V16.52a.313.313 0 0 1 .316-.317h3.037a.313.313 0 0 1 .317.317v3.038a.313.313 0 0 1-.313.316zm-2.722-.633h2.4v-2.4h-2.4zm-5.38.633H9.429a.312.312 0 0 1-.316-.316V16.52a.313.313 0 0 1 .087-.22.317.317 0 0 1 .225-.092h3.038a.319.319 0 0 1 .225.092.313.313 0 0 1 .091.225v3.038a.311.311 0 0 1-.091.224.315.315 0 0 1-.222.092zm-2.722-.633h2.4v-2.4h-2.4zm-2.34.633H4.367a.313.313 0 0 1-.316-.316V16.52a.313.313 0 0 1 .092-.225.317.317 0 0 1 .224-.092h3.038a.317.317 0 0 1 .224.092.313.313 0 0 1 .092.225v3.038a.313.313 0 0 1-.313.316zm-2.722-.633h2.406v-2.4h-2.4zM22.6 14.81a.313.313 0 0 1-.317-.317v-3.037a.313.313 0 0 1 .317-.316h3.038a.313.313 0 0 1 .316.316v3.037a.313.313 0 0 1-.092.225.317.317 0 0 1-.224.092zm.316-.634h2.4v-2.4h-2.4zm-5.38.634a.313.313 0 0 1-.316-.317v-3.037a.313.313 0 0 1 .316-.316h3.037a.313.313 0 0 1 .317.316v3.037a.313.313 0 0 1-.317.317zm.316-.634h2.4v-2.4h-2.4zm-5.38-.38H9.429a.312.312 0 0 1-.316-.316v-3.037a.312.312 0 0 1 .316-.316h3.038a.312.312 0 0 1 .316.316v3.038a.312.312 0 0 1-.313.316zm-2.722-.633h2.4v-2.404h-2.4zm-2.34.633H4.367a.313.313 0 0 1-.316-.316v-3.037a.313.313 0 0 1 .316-.316h3.038a.313.313 0 0 1 .316.316v3.038a.313.313 0 0 1-.313.316zm-2.722-.633h2.4v-2.404h-2.4zM9.2 7.63a.312.312 0 0 1-.091-.224V4.367a.312.312 0 0 1 .316-.316h3.038a.312.312 0 0 1 .316.316v3.038a.312.312 0 0 1-.316.316H9.426A.313.313 0 0 1 9.2 7.63zm.541-.541h2.4V4.684h-2.4zm-5.6.541a.315.315 0 0 1-.092-.225V4.367a.313.313 0 0 1 .316-.316h3.04a.313.313 0 0 1 .316.316v3.038a.313.313 0 0 1-.316.316H4.363a.313.313 0 0 1-.22-.091zm.54-.541h2.407V4.684h-2.4z"/></symbol><symbol id="employee" viewBox="0 0 40.23 26.52"><path fill="#2d3192" d="M37.55 26.449a.529.529 0 0 1-.212-.239h-4.716a.529.529 0 0 1-.917 0H30.4a.529.529 0 0 1-.961 0h-8.665a.529.529 0 0 1-.958 0h-8.657a.53.53 0 0 1-.962 0H3.229a.527.527 0 0 1-.929 0 .53.53 0 0 1-.065-.251v-3.9a2.223 2.223 0 0 1 1.228-2l1.417-.712a3.987 3.987 0 0 1-2.03-1.634.5.5 0 0 1 0-.472 9.389 9.389 0 0 0 .464-3.284c.014-.373.028-.725.049-1.043a4.593 4.593 0 0 1 4.482-4.442 4.6 4.6 0 0 1 4.484 4.447c.028.318.035.67.049 1.043a9.368 9.368 0 0 0 .465 3.284.51.51 0 0 1 0 .472 3.983 3.983 0 0 1-2.023 1.642l.508.254a2.807 2.807 0 0 1 .654-.345l3.252-1.186a.516.516 0 0 1 .14-.4l.987-1.036v-1.776A6.448 6.448 0 0 1 14.1 9.945V8.753a6.151 6.151 0 0 1-.564-2.572V5.053A5.057 5.057 0 0 1 18.586 0h7.908a.532.532 0 0 1 .529.529v5.645a6.145 6.145 0 0 1-.564 2.572v1.388a6.2 6.2 0 0 1-1.952 4.511c-.1.092-.194.184-.3.268v1.736l.986 1.036a.5.5 0 0 1 .141.4l3.082 1.115 1.065-.3c.437-.12.437-.169.437-.289v-.76a4.125 4.125 0 0 1-1.7-3.334v-.867l-.268-.544a2.763 2.763 0 0 1-.3-1.247v-.028A3.363 3.363 0 0 1 31 8.478h5.087a.532.532 0 0 1 .529.529v2.722a3.362 3.362 0 0 1-.352 1.5l-.211.423v1.008a3.884 3.884 0 0 1-1.191 2.812 4.01 4.01 0 0 1-.507.417v.725a.225.225 0 0 0 .162.212l2.184.626a2.291 2.291 0 0 1 1.648 2.148v4.372a.531.531 0 0 1-.046.239.528.528 0 0 1-.754.239zm-.212-.239a.524.524 0 0 1-.045-.239V21.6a1.169 1.169 0 0 0-.846-1.121l-2.185-.627a1.978 1.978 0 0 1-.226-.092l-1.344 1.34v4.87a.525.525 0 0 1-.069.24zm-5.633 0a.527.527 0 0 1-.07-.24V21.1l-1.343-1.342a3.009 3.009 0 0 1-.493.176l-.134.035a2.771 2.771 0 0 1 .782 1.931v4.067a.532.532 0 0 1-.048.244zm-2.267 0a.526.526 0 0 1-.047-.244V21.9a1.738 1.738 0 0 0-1.148-1.628l-3.433-1.247-1.431 2.143a1.124 1.124 0 0 1-.8.479.527.527 0 0 1-.106.007 1.1 1.1 0 0 1-.775-.317l-.874-.874v5.5a.529.529 0 0 1-.05.247zm-9.621 0a.529.529 0 0 1-.05-.247v-5.5l-.874.874a1.113 1.113 0 0 1-.775.317.527.527 0 0 1-.106-.007 1.071 1.071 0 0 1-.8-.479l-1.431-2.143-3.432 1.247a1.736 1.736 0 0 0-1.142 1.628v4.067a.526.526 0 0 1-.047.244zm-9.619 0a.526.526 0 0 1-.047-.244V21.9a2.822 2.822 0 0 1 .423-1.475L10 20.136l-.614.585a2.212 2.212 0 0 1-3.058 0l-.614-.585-1.768.881a1.155 1.155 0 0 0-.648 1.043v3.9a.53.53 0 0 1-.065.251zm6.237-8.1l1.644 2.467c.007 0 .014.007.028.014s.021 0 .028-.006l1.324-1.326-2.495-1.705zm4.676 1.148l1.325 1.326a.074.074 0 0 0 .028.006c.021 0 .028-.006.028-.014l1.643-2.467-.529-.557zm-14.429-.292a1.063 1.063 0 0 1-.127.514l.494.463a1.163 1.163 0 0 0 1.607 0l.493-.465a1.066 1.066 0 0 1-.128-.514V18.4a3.959 3.959 0 0 1-2.34 0zm24.288-.354a1.384 1.384 0 0 1-.035.317l1.2 1.2 1.2-1.205a1.5 1.5 0 0 1-.035-.311V18.4a4.006 4.006 0 0 1-1.163.176h-.121a3.756 3.756 0 0 1-1.049-.192zm-13.546-2.035l2.861 1.959 2.861-1.957v-.966a6.122 6.122 0 0 1-2.854.7c-.141 0-.275-.007-.417-.014a5.824 5.824 0 0 1-2.452-.71zm-7.352 1.318v.627a3.976 3.976 0 0 0 1.7-1.085 5.472 5.472 0 0 1-.3-1.262 3.929 3.929 0 0 1-1.4 1.72zm-6.145-.469a3.792 3.792 0 0 0 1.7 1.082v-.634a3.927 3.927 0 0 1-1.4-1.72 6.072 6.072 0 0 1-.3 1.272zm.544-3.3a.532.532 0 0 1 .529.531 2.861 2.861 0 0 0 5.688.444c-.852-1.882-3.051-2.136-3.735-2.171l-.8.824a.528.528 0 0 1-.761-.733l.951-.987a.55.55 0 0 1 .365-.162 6.738 6.738 0 0 1 2.01.317 4.791 4.791 0 0 1 2.608 1.911V14c-.006-.366-.021-.7-.041-1a3.964 3.964 0 0 0-1.071-2.467 3.286 3.286 0 0 0-4.722 0A3.923 3.923 0 0 0 4.42 13a14.5 14.5 0 0 0-.028 1 .956.956 0 0 0-.006.135.308.308 0 0 1 .068-.008zm24.244-2.294v.028a1.739 1.739 0 0 0 .183.775l.324.655a.567.567 0 0 1 .056.24v.986a2.955 2.955 0 0 0 2.787 3 2.853 2.853 0 0 0 2.946-2.854v-1.131a.54.54 0 0 1 .056-.239l.268-.536a2.37 2.37 0 0 0 .24-1.029V9.534h-4.56a2.3 2.3 0 0 0-2.3 2.3zM14.6 5.053v1.128a5.1 5.1 0 0 0 .512 2.219.7.7 0 0 1 .05.233v1.312a5.24 5.24 0 0 0 4.785 5.3 5.086 5.086 0 0 0 3.433-1.021l.006-.007c.141-.105.275-.225.41-.345a5.066 5.066 0 0 0 1.621-3.735V8.633a.506.506 0 0 1 .049-.232 4.993 4.993 0 0 0 .519-2.219V1.053H18.6a4 4 0 0 0-4 4z"/></symbol><symbol id="legalstatus" viewBox="0 0 34.74 34.74"><path fill="#2d3192" d="M13.894 34.737a.579.579 0 0 1-.58-.58v-2.315a.579.579 0 0 1 .58-.579h1.737V5.211a2.9 2.9 0 0 1-1.093-1.7 15.992 15.992 0 0 0-5.51 2.523 3.56 3.56 0 0 1-1.387.506l4.9 11.987h.772a.579.579 0 0 1 .579.58 6.376 6.376 0 0 1-6.369 6.368H6.369A6.376 6.376 0 0 1 0 19.105a.579.579 0 0 1 .579-.58h.77L6.268 6.5a4.383 4.383 0 0 1-.607-.162 3.264 3.264 0 0 1-2.114-1.96c-.039-.117-.056-.185-.056-.185a.579.579 0 0 1 1.123-.284.769.769 0 0 0 .031.1A2.125 2.125 0 0 0 6.039 5.24a2.787 2.787 0 0 0 2.353-.176c1.752-1.148 4.172-2.5 6.133-2.718a2.9 2.9 0 0 1 5.686 0c1.96.22 4.378 1.57 6.13 2.718a2.793 2.793 0 0 0 2.353.176 2.127 2.127 0 0 0 1.395-1.234.914.914 0 0 0 .03-.1.579.579 0 1 1 1.123.284s-.017.068-.056.185a3.264 3.264 0 0 1-2.11 1.959 4.352 4.352 0 0 1-.608.162l4.92 12.028h.771a.579.579 0 0 1 .58.58 6.376 6.376 0 0 1-6.369 6.368h-1.159a6.375 6.375 0 0 1-6.368-6.368.579.579 0 0 1 .579-.58h.771l4.9-11.987a3.565 3.565 0 0 1-1.393-.505 16.079 16.079 0 0 0-5.5-2.522 2.9 2.9 0 0 1-1.091 1.7v26.053h1.736a.579.579 0 0 1 .579.579v2.316a.579.579 0 0 1-.579.58zm.578-1.158h5.79v-1.158h-5.79zm3.475-2.316V5.731q-.123.025-.25.04a2.789 2.789 0 0 1-.549.011 2.892 2.892 0 0 1-.359-.05v25.531zM6.369 24.316h1.157a5.219 5.219 0 0 0 5.18-4.632h-.476a.529.529 0 0 1-.151 0H1.812a.579.579 0 0 1-.076.005.586.586 0 0 1-.076-.005h-.47a5.219 5.219 0 0 0 5.179 4.632zm20.84 0h1.158a5.218 5.218 0 0 0 5.179-4.632h-.478a.533.533 0 0 1-.068 0 .583.583 0 0 1-.085-.006H22.662a.576.576 0 0 1-.082.006.586.586 0 0 1-.083-.006h-.466a5.219 5.219 0 0 0 5.179 4.637zm4.926-5.79L27.789 7.9l-4.348 10.626zm-20.843 0L6.946 7.9 2.6 18.526zM16.5 4.389a1.681 1.681 0 0 0 1.734 0 .58.58 0 0 1 .085-.041 1.736 1.736 0 0 0 .781-1.391.583.583 0 0 1 0-.125 1.737 1.737 0 0 0-3.473.035v.055a1.735 1.735 0 0 0 .786 1.427.574.574 0 0 1 .087.04z"/></symbol><symbol id="gst" viewBox="0 0 29.15 32.82"><path fill="#2d3192" d="M22.119 32.821a7.02 7.02 0 0 1-5.064-2.155h-15.1A1.953 1.953 0 0 1 0 28.719V9.18a.483.483 0 0 1 .481-.48.484.484 0 0 1 .481.48v19.526a.993.993 0 0 0 .994.994h14.32A7.043 7.043 0 0 1 23.5 18.873V8.353h-5.4a2 2 0 0 1-2-1.991v-5.4H1.955a.989.989 0 0 0-.993.993v5.308a.484.484 0 0 1-.482.481.483.483 0 0 1-.48-.481V1.955A1.959 1.959 0 0 1 1.955 0h14.616a.482.482 0 0 1 .341.138l7.4 7.4a.477.477 0 0 1 .141.339v11.279a7.038 7.038 0 0 1 3.173 11.013.481.481 0 0 1-.751-.6 6.117 6.117 0 1 0-1.282 1.2.478.478 0 0 1 .551.782 6.953 6.953 0 0 1-4 1.269zM17.058 6.368A1.031 1.031 0 0 0 18.09 7.4h4.725l-5.757-5.759zm3.968 22.882l-3.167-3.167a.483.483 0 0 1 0-.679l1.59-1.59a.483.483 0 0 1 .679 0l1.238 1.231 2.734-2.731a.486.486 0 0 1 .68 0l1.6 1.589a.483.483 0 0 1 0 .68l-4.674 4.667a.484.484 0 0 1-.68 0zm-2.146-3.506l2.487 2.488 3.975-3.987-.911-.91-2.731 2.73a.483.483 0 0 1-.679 0l-1.231-1.231zm-14.9-2.428a.481.481 0 0 1 0-.962h9.1a.481.481 0 1 1 0 .962zm0-3.469a.481.481 0 0 1 0-.962h9.077a.481.481 0 0 1 0 .962zm0-3.474a.481.481 0 0 1 0-.962H18.2a.481.481 0 1 1 0 .962zm0-3.475a.481.481 0 0 1 0-.962H18.2a.481.481 0 1 1 0 .962zm-.24-5.241c-.131 0-.24-.221-.24-.487s.109-.487.24-.487h7.11c.13 0 .239.22.239.487s-.109.487-.239.487z"/></symbol><symbol id="natureof" viewBox="0 0 31 31.01"><path fill="#2d3192" d="M6.974 30.827l-6.8-6.844a.608.608 0 0 1 0-.855l2.877-2.891a1.831 1.831 0 0 1 1.62-.5 7.5 7.5 0 0 1 6.829-3.869 7.847 7.847 0 0 1 3.036.606h6.744a2.443 2.443 0 0 1 1.885.9L26.74 13.7a2.422 2.422 0 1 1 3.686 3.143c-5.807 6.95-5.443 6.526-5.488 6.564a5.4 5.4 0 0 1-3.8 1.544H13.09a1.817 1.817 0 0 0-1.264.508l-.628.606a1.826 1.826 0 0 1-.432 1.878l-2.937 2.892a.608.608 0 0 1-.855-.008zm-3.058-9.739l-2.462 2.464 5.951 6 2.506-2.469a.608.608 0 0 0 0-.855c-5.446-5.436-5.14-5.162-5.246-5.224a.605.605 0 0 0-.749.083zm1.809-.753l4.752 4.75.515-.5a3.032 3.032 0 0 1 2.1-.849h8.048a4.2 4.2 0 0 0 2.937-1.181l5.436-6.5a1.214 1.214 0 1 0-1.855-1.567c-.023.031-.508.53-3.967 4.081a2.35 2.35 0 0 1 .023.319 2.431 2.431 0 0 1-2.424 2.423h-4.943a.606.606 0 1 1 0-1.211h4.943a1.211 1.211 0 0 0 0-2.423h-6.875a.639.639 0 0 1-.241-.053 6.676 6.676 0 0 0-2.666-.553q-.139-.006-.277-.006a6.276 6.276 0 0 0-5.506 3.27zm5.663-13.673a6.662 6.662 0 1 1 6.662 6.662 6.672 6.672 0 0 1-6.662-6.662zm1.2 0a5.451 5.451 0 1 0 5.45-5.45 5.451 5.451 0 0 0-5.446 5.45zm5.012 4.167a.6.6 0 0 1-.3-.545v-.7a2.522 2.522 0 0 1-1.1-.784.607.607 0 0 1 .931-.779 1.086 1.086 0 0 0 .787.462.606.606 0 0 0 0-1.21 1.816 1.816 0 0 1-.6-3.527v-.717h.005a.6.6 0 1 1 1.2 0v.7a2.47 2.47 0 0 1 .893.56.6.6 0 0 1-.84.871.978.978 0 0 0-.66-.318.606.606 0 0 0 0 1.211 1.816 1.816 0 0 1 .6 3.523v.712a.606.606 0 0 1-.916.545z"/></symbol><symbol id="anualturn" viewBox="0 0 33.07 33.15"><path fill="none" stroke="#2d3192" d="M2.122 32.647a1.621 1.621 0 1 1 0-3.243h28.826a1.621 1.621 0 0 1 0 3.243zm23.4-5.4a.655.655 0 0 1-.654-.655V5.831a.654.654 0 0 1 .654-.654h3.826a.654.654 0 0 1 .653.654v20.76a.655.655 0 0 1-.653.655zm-21.8 0a.654.654 0 0 1-.653-.654v-9.73a.655.655 0 0 1 .653-.655h3.823a.655.655 0 0 1 .655.655v9.725a.655.655 0 0 1-.655.654zm14.534 0a.655.655 0 0 1-.655-.654V11.615a.657.657 0 0 1 .655-.655h3.825a.655.655 0 0 1 .654.655v14.972a.654.654 0 0 1-.654.654zm-7.266 0a.656.656 0 0 1-.655-.655v-6.83a.655.655 0 0 1 .655-.655h3.824a.655.655 0 0 1 .656.655v6.83a.656.656 0 0 1-.656.655zM9.028 13.559l-7.32-3.018a1.082 1.082 0 1 1 .824-2L8.988 11.2l2.985-5.019a1.092 1.092 0 0 1 .454-.418l6.309-3.1L16.679.841a.2.2 0 0 1-.053-.215.2.2 0 0 1 .18-.126l8.288.014a.214.214 0 0 1 .194.122.217.217 0 0 1-.022.23l-5.042 6.571a.2.2 0 0 1-.35-.1L19.687 4.6l-6.016 2.962-3.3 5.549a1.081 1.081 0 0 1-1.343.447z"/></symbol></svg>
+<footer class="FM_m12 FM_w6 FM_pr  ">
+        <div class="FM_bgH FM_Opc1 FM_p15 ">
+            <div class="FM_ds5 FM_ds7"><h2 class="FM_f26 FM_bo FM_c3">Get in touch with us</h2>
+            </div>
+        </div><div class="FM_bg9 FM_cont_sec FM_bs FM_w1 footr">     
+        <div class="FM_p6 FM_m18 FM_ml15">
+            <div class="FM_w250 FM_p7 FM_fl"><p class="FM_f22 FM_c1 FM_bo FM_w8 FM_p8 ">Our Company</p>
+                <ul class="FM_Ftnav"><li><a href="products.html">Products & Services</a></li><li><a href="enquiry.html">Contact Us</a></li><li><a href="sitenavigation.html">Sitemap </a></li><li><a href="shandar-shoe-center.pdf">Download Brochure</a></li></ul></div><div class="FM_fl FM_w400"><p class="FM_f22 FM_c1 FM_bo FM_p8">Reach Us </p><div class="FM_Cont-data FM_ds5 FM_m5">
+ <a href="https://www.google.co.in/maps/dir//18.4300487,76.860565" class="FM_fl FM_Db FM_w20" target="_blank"><span><svg xmlns="http://www.w3.org/2000/svg" width="15" height="24" viewBox="0 0 21.271 29.107"><path d="M17.364 3.728a10 10 0 0 0-14.384 0c-3.528 3.528-4.071 10.313-.814 14.384l8.142 11.67 8.142-11.67a12.277 12.277 0 0 0-1.086-14.384zm-7.056 10.585a3.257 3.257 0 1 1 0-6.514c1.9-.271 3.257 1.357 3.257 3.257a3.3 3.3 0 0 1-3.257 3.257zm0 0" fill="#777" data-name="Path 265" transform="translate(1 -.675)"></path></svg></span></a><p class="FM_f14 FM_Lsp4 Fm_lh10 FM_m3 FM_fl"><span class="FM_Db FM_m13 FM_f20 FM_bo FM_lh05">Shandar Shoe Center</span>1 Main Road, Nalegaon, <br>Latur-413524, Maharashtra, India</p></div><div class="FM_m47"><a href="https://www.google.co.in/maps/dir//18.4300487,76.860565" class="FM_f14 FM_Lsp4 FM_m19 FM_c10 FM_ds7 FM_m27 FM_Inf" target="_blank">
+ <svg xmlns="http://www.w3.org/2000/svg" width="17.961" height="17" viewBox="0 0 17.961 17">
+    
+    <g id="get-directions-button" transform="translate(.001 .001)">
+        <g id="directions" transform="translate(0 -.001)">
+            <path d="M17.692 7.9L9.609.254a.9.9 0 0 0-1.257 0L.269 7.9a.792.792 0 0 0 0 1.19l8.083 7.65a.9.9 0 0 0 1.257 0l8.083-7.65a.792.792 0 0 0 0-1.19zm-6.915 2.72V8.5H7.185v2.55h-1.8v-3.4a.827.827 0 0 1 .9-.85h4.49V4.674l3.145 2.975z" fill="#589ee9" data-name="Path 986" transform="translate(0 .001)"></path>
+        </g>
+    </g>
+</svg><span class="FM_td FM_m20 FM_ftrGD">Get Directions</span></a></div><div class="FM_m21 FM_ds5">
+	<span class="FM_m4 FM_fl">
+	<span>
+	<svg xmlns="http://www.w3.org/2000/svg" width="20.869" height="20.87" viewBox="0 0 20.869 20.87">
+  
+    <g transform="translate(-.002)">
+        <g data-name="Group 1394" transform="translate(.001)">
+            <path d="M10.436 0a10.435 10.435 0 1 0 10.435 10.435A10.435 10.435 0 0 0 10.436 0zm.032 15.358H5.947c0-3.26 2.863-3.259 3.5-4.111l.073-.389A3.115 3.115 0 0 1 7.995 8.04 2.792 2.792 0 0 1 10.436 5a2.792 2.792 0 0 1 2.441 3.04 3.126 3.126 0 0 1-1.5 2.808l.083.442c.7.811 3.465.864 3.465 4.069z" fill="#777" data-name="Path 943" transform="translate(-.001)"></path>
+        </g>
+    </g>
+</svg>
+</span>
+</span>
+<p class="FM_Lsp4 FM_f18 Fm_lh10 FM_wrd FM_fl FM_w350">Mukhtyar  Moulasaheb Shaikh (Manager)</p>
+</div><div class="FM_cb"></div><div class="FM_m21 FM_ds5">
+	<span class="FM_m4 FM_fl FM_m27">
+	<svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 16.012 16">
+    <g   data-name="Group 1469" transform="translate(-1106 -364)">
+        <path   d="M12.179 55.193a1.122 1.122 0 0 0-1.7 0c-.4.393-.793.786-1.183 1.186a.234.234 0 0 1-.327.06c-.257-.14-.53-.253-.776-.407a12.3 12.3 0 0 1-2.965-2.7 7.026 7.026 0 0 1-1.063-1.7.244.244 0 0 1 .06-.313c.4-.383.783-.776 1.173-1.17a1.126 1.126 0 0 0 0-1.736c-.31-.313-.62-.62-.93-.933s-.636-.643-.96-.96a1.129 1.129 0 0 0-1.7 0c-.4.393-.783.8-1.19 1.183a1.931 1.931 0 0 0-.606 1.3 5.52 5.52 0 0 0 .426 2.376A14.436 14.436 0 0 0 3 55.647a15.856 15.856 0 0 0 5.251 4.108 7.6 7.6 0 0 0 2.909.846 2.132 2.132 0 0 0 1.829-.7c.34-.38.723-.726 1.083-1.09a1.134 1.134 0 0 0 .007-1.726q-.944-.944-1.9-1.892z" fill="#777" data-name="Path 253" transform="translate(1105.995 319.388)"></path>
+        <path   d="M241.466 100.738l1.23-.21A5.519 5.519 0 0 0 238.027 96l-.173 1.236a4.265 4.265 0 0 1 3.612 3.5z" fill="#777" data-name="Path 254" transform="translate(876.072 271.199)"></path>
+        <path  d="M248.125 2.592A9.066 9.066 0 0 0 242.927 0l-.173 1.236a7.911 7.911 0 0 1 6.694 6.487l1.23-.21a9.132 9.132 0 0 0-2.553-4.921z" fill="#777" data-name="Path 255" transform="translate(871.335 364)"></path>
+    </g>
+</svg>
+</span>
+<p class="FM_Lsp3 FM_f18 Fm_lh10 FM_bo FM_fl FM_cp FM_c4" onclick="check_pnsno_display({'catId':'-1',    'mcatId':'-1','mcatName':'','displayImage':'','zoomImage':'','prodServ':'','prodName':'','vidUrl':'','prodDispName':'','price':'','reqSent':'','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'0','modrefType':'company','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'1','tempId':'09','instId':'01','heading':'Send SMS','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Click to Call','ctaType':'Message','pageType':'home','section':'Footer','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'0','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' },0);"><span data-pnsno="9823287607" id="footerPNS" ><span class="FM_tduHvr">View Mobile Number</span></span></p></div><div class="FM_w1 FM_ds5 FM_m21 FM_bs">
+<div class="FM_ds11 FM_ds5 FM_BUtn FM_m4 FM_w26" onclick="open_enq_bl_pop({'catId':'-1',    'mcatId':'-1','mcatName':'','displayImage':'','zoomImage':'','prodServ':'','prodName':'','vidUrl':'','prodDispName':'','price':'','reqSent':'','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'0','modrefType':'company','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'1','tempId':'09','instId':'01','heading':'Send SMS','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Send SMS','ctaType':'message','pageType':'home','section':'Footer','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'0','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' });"><span class="FM_txc FM_Btn1 FM_bRds Fm_lh5 FM_f16 FM_m8 FM_ds13 FM_ds7 FM_ds5 FM_cp FM_m8 pb12 pt12 FM_p19 FM_p2"><span class="FM_m60">
+<svg class="FM_w69 FM_h20 fm_SVff"><use xlink:href="#smsicon"></use></svg>
+</span>Send SMS</span></div>
+
+<div class="FM_ds11 FM_ds5 FM_w26" onclick="open_enq_bl_pop({'catId':'-1',    'mcatId':'-1','mcatName':'','displayImage':'','zoomImage':'','prodServ':'','prodName':'','vidUrl':'','prodDispName':'','price':'','reqSent':'','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'0','modrefType':'company','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'1','tempId':'09','instId':'01','heading':'Send Email','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Send Email','ctaType':'message','pageType':'home','section':'Footer','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'0','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' });"><span class="FM_txc FM_Btn2 FM_bRds Fm_lh5 FM_f16 FM_m8 FM_ds13 FM_ds7 FM_ds5 FM_cp FM_m8 pb12 pt12 FM_p19 FM_p2 FM_pt19"><span class="FM_seHd FM_ds1">
+<svg class="FM_w69 FM_h20 fm_Sgr"><use xlink:href="#emailicon"></use></svg>
+</span>Send Email</span></div>
+</div>
+    </div><div class="FM_w1 FM_ds5 FM_ds13 FM_m19 FM_m9 FM_ds7"></div><div class="FM_w1 FM_cb FM_p52"></div><div class="FM_Social FM_fl FM_m12">
+<ul>
+<li class="FM_mb17">
+<span class="FM_h20 FM_w20 FM_ds1 FM_m22"><svg xmlns="http://www.w3.org/2000/svg" width="16.287" height="16.425" viewBox="0 0 16.287 16.425">
+    
+    <g   transform="translate(-2.006)">
+        <g   data-name="Group 1424" transform="translate(2.006)">
+            <path   d="M15.3 10.439a2.973 2.973 0 0 0-2.338 1.147l-5.083-2.6a2.974 2.974 0 0 0 .114-.774 2.949 2.949 0 0 0-.136-.84l5.06-2.587a2.98 2.98 0 1 0-.609-1.793 2.961 2.961 0 0 0 .115.777l-5.082 2.6A2.99 2.99 0 1 0 7.383 10l5.058 2.587a2.956 2.956 0 0 0-.137.842 2.993 2.993 0 1 0 2.996-2.99z" fill="#777" data-name="Path 948" transform="translate(-2.006)"></path>
+        </g>
+    </g>
+</svg>
+</span>
+</li>
+<li class="FM_mb17"><span class="FM_f14 Fm_lh12 FM_Lsp5 FM_c1 FM_m17">
+Share us via
+<span>
+</span></span></li>
+
+<li><a href="https://www.facebook.com/sharer.php?u=https://www.indiamart.com/company/83177293/" target="_blank"   onclick="reqFormGATrack('Share FCP in SNS','Click on Facebook','FCP','');" ><svg xmlns="http://www.w3.org/2000/svg" id="facebook-3" width="27.213" height="27.213" viewBox="0 0 27.213 27.213">
+ 
+    <circle   cx="13.606" cy="13.606" r="13.606" fill="#485cc6" data-name="Ellipse 83"></circle>
+    <path id="Path_952" d="M45.668 30.623H43.24v8.895h-3.679v-8.895h-1.749V27.5h1.749v-2.025a3.449 3.449 0 0 1 3.711-3.712l2.728.011v3.034h-1.98a.749.749 0 0 0-.78.852v1.84h2.749z" fill="#fff" data-name="Path 952" transform="translate(-28.641 -16.484)"></path>
+</svg>
+</a></li> 
+
+<li><a href="https://www.linkedin.com/cws/share?url=https://www.indiamart.com/company/83177293/" target="_blank"  onclick="reqFormGATrack('Share FCP in SNS','Click on linkedin','FCP','');" ><svg xmlns="http://www.w3.org/2000/svg" id="linkedin-2" width="27.213" height="27.213" viewBox="0 0 27.213 27.213">
+<path id="Path_1038" d="M13.606 0A13.606 13.606 0 1 1 0 13.606 13.606 13.606 0 0 1 13.606 0z" fill="#0e76a8" data-name="Path 1038"/>
+<path id="Path_1039" d="M81.947 84.722h2.548V76.23h-2.548zm9.926-8.786a3.824 3.824 0 0 0-3.128 1.448V76.2h-2.557v8.52h2.557v-4.605a2.023 2.023 0 0 1 2.009-1.924c1.117 0 1.393.95 1.393 1.9v4.63H94.7V79.9c-.005-3.347-1.59-3.964-2.828-3.964zm-8.664-.554a1.276 1.276 0 1 0-1.276-1.276 1.276 1.276 0 0 0 1.276 1.275z" fill="#fff" data-name="Path 1039" transform="translate(-74.279 -66.027)"/>
+</svg></a></li>
+
+ <li><a href="https://twitter.com/share?url=https://www.indiamart.com/company/83177293/" target="_blank"  onclick="reqFormGATrack('Share FCP in SNS','Click on Twitter','FCP','');"   ><svg xmlns="http://www.w3.org/2000/svg" width="27.213" height="27.213" viewBox="0 0 27.213 27.213">
+   
+    <g id="twitter" transform="translate(-.002)">
+        <circle id="Ellipse_82" cx="13.606" cy="13.606" r="13.606" fill="#559dff" data-name="Ellipse 82" transform="translate(.001)"></circle>
+        <g id="Group_1428" data-name="Group 1428" transform="translate(6.089 8.253)">
+            <path id="Path_951" d="M40.955 35.553a6.489 6.489 0 0 1-1.868.512 3.261 3.261 0 0 0 1.43-1.8 6.511 6.511 0 0 1-2.065.789 3.255 3.255 0 0 0-5.542 2.967 9.232 9.232 0 0 1-6.7-3.4 3.256 3.256 0 0 0 1.006 4.342 3.229 3.229 0 0 1-1.473-.407v.041a3.254 3.254 0 0 0 2.609 3.189 3.265 3.265 0 0 1-1.469.056 3.256 3.256 0 0 0 3.035 2.258 6.565 6.565 0 0 1-4.818 1.35 9.249 9.249 0 0 0 14.239-7.793c0-.141 0-.281-.009-.421a6.6 6.6 0 0 0 1.623-1.683z" fill="#f1f2f2" data-name="Path 951" transform="translate(-25.103 -34.028)"></path>
+        </g>
+    </g>
+</svg>
+
+</a></li>
+</ul>
+</div><div class="FM_cb"></div></div><div class="FM_stky_frm FM_bs FM_bg0 FM_pa FM_ps_r" id="stickyFrm_hid">
+<div class="FM_bg0 FM_pr" ><div class="FM_c5 FM_f20">
+			<span class="FM_f22 FM_bo Fm_lh6">Leave a Message,</span> we will call you back!
+			</div>
+<div class="enq_blform"><div class="contactBLin mb15"><div class="belodrbg bedsnone" id="t0401_belodr"><div class="blloader"></div></div><div class="bgin15" id="t0401_head"></div><div class="be-pdg"><div class="mb8 mt5 pwdf pbdrb bxs dtbl bedsnone" id="t0401_q_comp_sec"><label id="t0401_for-company-l" class="fs12 plbl dcell verT">To</label><input type="text" name="q_comp_name" id="t0401_q_comp_name" value="" class="be-input" placeholder="Company name" readonly="readonly" disabled="disabled" style="background:#fff;width:100%"></div></div><div id="t0401_pdpPimg" class="frmimg belft bedsnone"></div><form name="t0401_bl_form" id="t0401_bl_form" class="befrmW be-mfrm" onsubmit="return false"></form><div class="beclr"></div><div id="t0401_tCond" class="bedsnone becnd"><input type="checkbox" class="bemt2" onclick="checkedTNC('0401')" id="t0401_tCondCheckBox"><span class="bevT bedblk">I agree to the <a href="https://www.indiamart.com/terms-of-use.html" target="_blank" class="betrmt">terms</a> and <a href="https://www.indiamart.com/privacy-policy.html" target="_blank" class="betrmt">privacy policy</a></span></div><div id="t0401_q_send_req_button" class="betxtc"><input type="submit" id="t0401_submit" class="penqbt" value="Contact Supplier"></div><div id="t0401_byrinfoIn" class="befs14 beinfo bedsnone"></div></div><!--inline enquiry--><div id="t0401_enrichform_maindiv" class="be-frmwrap bedsnone"></div>     
+
+</div>
+</div>
+</div></div></div></footer></div><div class="bl_form FM_ds2 FM_m57"><div class="FM_ds3 FM_vm FM_bo_sp"><div class="enq_blform FM_ds4">  
+<div class="be-mdleWrap belft betbl bebxs bebdr1" id="t0101_inlineBL"><div class="bepr betbl"><div class="be-bgb bedtc"><div> <div class="be-bls bebxs" id="t0101_benefits"> <div class="be-bnf"> <div class="be-tpd"><div class="blnewform_sprit beW bebgp bemb8 beauto"></div>Tell us what you <br/>need</div><div class="be-tpd"> <div class="blnewform_sprit beW bebgp2 bemb8 beauto"></div>Receive seller <br/>details</div><div class="be-tpd"> <div class="blnewform_sprit beW1 bebgp3 bemb8 beauto"></div>Seal the deal</div></div></div><div class="beclr"></div></div></div><div class="bew2 bedtc bevT bebxs be-mfrm"><div class="bespc"><div class="be-fhdg" id="t0101_head">Save time! Get Best Deal</div><form name="t0101_bl_form" id="t0101_bl_form" method="post" onsubmit="return false"  class="bemnh"></form><div class="beclr"></div><div id="t0101_tCond" class="bedsnone bemt10"><input type="checkbox" class="bemt2" onclick="checkedTNC('0101')" id="t0101_tCondCheckBox"><span class="bevT bedblk">I agree to the <a href="https://www.indiamart.com/terms-of-use.html" target="_blank" class="betrmt">terms</a> and <a href="https://www.indiamart.com/privacy-policy.html" target="_blank" class="betrmt">privacy policy</a></span></div><div id="t0101_q_send_req_button" class="be-mdl"><input type="submit" id="t0101_submit" class="be_btmm" value="Submit Requirement"></div> <div class="befs14 beinfo bedsnone" id="t0101_byrinfoIn"></div><div class="belodrbg bedsnone" id="t0101_belodr"><div class="blloader"></div></div></div></div></div></div>
+         <div id="t0101_enrichform_maindiv" class="be-frmwrap bedsnone"></div>
+</div></div><div class="FM_ds3 FM_vm FM_bo_sp" ><div class="fcp_Ad-3" id="Beside_Inline_Form" ><ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-0673059417528889" data-ad-slot="1431682770"></ins></div></div></div><div class=" FM_p17 FM_bg0 cntr_rpts"><div class="FM_ds5 FM_ds6 FM_ds11 FM_m11 FM_m12 FM_REL"><h2 class="FM_f26 FM_c1 FM_ds7">Related Products from Top Suppliers</h2><div class="FM_recsec FM_Pr-dR FM_pr FM_ds5 FM_ds6 FM_ds10 FM_m36 FM_jcSb"><div class=" FM_bg0 FM_mxw23 FM_bor7 FM_p15 FM_txc FM_ds5 FM_ds6 FM_ds13 FM_bs"><div class="FM_w1 FM_ds5 FM_ds11 FM_ds7"><a href="//www.indiamart.com/proddetail/woodland-gc-1346113-olive-shoe-19809042088.html" target="_blank" class="FM_ds5 FM_ds13 FM_ds7 FM_recimg FM_bor7"><img src="https://hm.imimg.com/template-mdc/d0066/jpg/load.svg"  data-dataimg="https://5.imimg.com/data5/SM/QG/GLADMIN-8863307/woodland-gc-1346113-olive-250x250.png"  alt="Woodland GC 1346113 OLIVE Shoe" class= "FM_mw100"></a><h3 class="FM_f18 FM_c5 FM_bo Fm_lh6 FM_mb10 FM_ovh FM_h45"><a class="FM_tduHvr FM_ds1" href="//www.indiamart.com/proddetail/woodland-gc-1346113-olive-shoe-19809042088.html" target="_blank">Woodland GC 1346113 OLIVE Shoe</a></h3><a class="FM_f18 FM_c4 FM_tdu FM_ftrGD Fm_lh24 FM_cp" onclick="open_enq_bl_pop({'catId':'',    'mcatId':'11996','mcatName':'','displayImage':'https://5.imimg.com/data5/SM/QG/GLADMIN-8863307/woodland-gc-1346113-olive-500x500.png','zoomImage':'https://5.imimg.com/data5/SM/QG/GLADMIN-8863307/woodland-gc-1346113-olive-500x500.png','prodServ':'','prodName':'Woodland GC 1346113 OLIVE Shoe','vidUrl':'','prodDispName':'','price':'','reqSent':'Yes','rcvName':'Keshav Multibrand Shoe Shop','rcvCity':'Jalna','rcvState':'Maharashtra','rcvLocality':'Alankar Talkies Road','rcvCountry':'','pDispId':'19809042088','modrefType':'product','rcvGlid':'8863307','refText':'homepage - Rank - rel_prod_overlay 1399','rcvCustType':'1399','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'Ask Price for Keshav Multibrand Shoe Shop','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Ask Price','ctaType':'Price','pageType':'home','section':'Recommended Section','position':'0','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'Ask for price','showAttachment':'0','compRank':'' })">Ask Price</a><a href="https://www.indiamart.com/keshav-multibrand-shoe/" class="FM_f18 FM_Lsp6 Fm_lh13 FM_m32 FM_c2 FM_tduHvr"><svg class="vrfIcon"><use xlink:href="#vrficon"></use></svg> Keshav Multibrand Shoe Shop</a><a class= "FM_f15 FM_c6 FM_m5 FM_Db" href="https://www.indiamart.com/keshav-multibrand-shoe/">Alankar Talkies Road, Jalna, Maharashtra, India</a></div><div class="fasE FM_ds18"><span onclick="open_enq_bl_pop({'catId':'',    'mcatId':'11996','mcatName':'','displayImage':'https://5.imimg.com/data5/SM/QG/GLADMIN-8863307/woodland-gc-1346113-olive-500x500.png','zoomImage':'https://5.imimg.com/data5/SM/QG/GLADMIN-8863307/woodland-gc-1346113-olive-500x500.png','prodServ':'','prodName':'Woodland GC 1346113 OLIVE Shoe','vidUrl':'','prodDispName':'','price':'','reqSent':'Yes','rcvName':'Keshav Multibrand Shoe Shop','rcvCity':'Jalna','rcvState':'Maharashtra','rcvLocality':'Alankar Talkies Road','rcvCountry':'','pDispId':'19809042088','modrefType':'product','rcvGlid':'8863307','refText':'homepage - Rank - rel_prod_overlay 1399','rcvCustType':'1399','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'Ask Price for Keshav Multibrand Shoe Shop','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Contact Supplier','ctaType':'Product Enquiry','pageType':'home','section':'Recommended Section','position':'0','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'Ask for price','showAttachment':'0','compRank':'' })" class="FM_txc FM_Btn1 Fm_lh7 FM_bo FM_f15 FM_cp FM_Db FM_p13 FM_w190 FM_m35 FM_bRds">Contact Supplier</span></div></div><div class=" FM_bg0 FM_mxw23 FM_bor7 FM_p15 FM_txc FM_ds5 FM_ds6 FM_ds13 FM_bs"><div class="FM_w1 FM_ds5 FM_ds11 FM_ds7"><a href="//www.indiamart.com/proddetail/mens-footwear-13586777630.html" target="_blank" class="FM_ds5 FM_ds13 FM_ds7 FM_recimg FM_bor7"><img src="https://hm.imimg.com/template-mdc/d0066/jpg/load.svg"  data-dataimg="https://4.imimg.com/data4/QN/TT/ANDROID-7397320/product-250x250.jpeg"  alt="Mens Footwear" class= "FM_mw100"></a><h3 class="FM_f18 FM_c5 FM_bo Fm_lh6 FM_mb10 FM_ovh FM_h45"><a class="FM_tduHvr FM_ds1" href="//www.indiamart.com/proddetail/mens-footwear-13586777630.html" target="_blank">Mens Footwear</a></h3><div class="FM_f20 FM_c7 FM_Lsp6 Fm_lh13">Rs 309/ <span class="FM_f16">Pair</span></div><a href="https://www.indiamart.com/pragathi-footwear-products/" class="FM_f18 FM_Lsp6 Fm_lh13 FM_m32 FM_c2 FM_tduHvr"><svg class="vrfIcon"><use xlink:href="#vrficon"></use></svg> Pragathi Footwear Products</a><a class= "FM_f15 FM_c6 FM_m5 FM_Db" href="https://www.indiamart.com/pragathi-footwear-products/">Patancheru, Medak, Telangana, India</a></div><div class="fasE FM_ds18"><div class="FM_f18 FM_c1 FM_m33 FM_Lsp FM_ds5 FM_ds7 FM_ds13 FM_tduHvr FM_c4 FM_cp" onclick="check_viewMOb_num({'catId':'',    'mcatId':'11996','mcatName':'','displayImage':'https://4.imimg.com/data4/QN/TT/ANDROID-7397320/product-500x500.jpeg','zoomImage':'https://4.imimg.com/data4/QN/TT/ANDROID-7397320/product-500x500.jpeg','prodServ':'','prodName':'Mens Footwear','vidUrl':'','prodDispName':'','price':'Rs 309/ <span class=&quot;FM_f16&quot;>Pair</span>','reqSent':'Yes','rcvName':'Pragathi Footwear Products','rcvCity':'Medak','rcvState':'Telangana','rcvLocality':'Patancheru','rcvCountry':'','pDispId':'13586777630','modrefType':'product','rcvGlid':'7397320','refText':'homepage - Rank - rel_prod_overlay 1299','rcvCustType':'1299','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'Contact Supplier for Pragathi Footwear Products','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Click to Call','ctaType':'Product Enquiry','pageType':'home','section':'Recommended Section','position':'1','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'Ask for price','showAttachment':'0','compRank':'' },1)"><svg class="svgiconcall FM_m4"><use xlink:href="#fcpcalicon"></use></svg>
+<span data-pnsno="8048409108" id="recommendPNS_1"><span class="FM_tduHvr">View Mobile Number</span></span>
+ </div><span onclick="open_enq_bl_pop({'catId':'',    'mcatId':'11996','mcatName':'','displayImage':'https://4.imimg.com/data4/QN/TT/ANDROID-7397320/product-500x500.jpeg','zoomImage':'https://4.imimg.com/data4/QN/TT/ANDROID-7397320/product-500x500.jpeg','prodServ':'','prodName':'Mens Footwear','vidUrl':'','prodDispName':'','price':'Rs 309/ <span class=&quot;FM_f16&quot;>Pair</span>','reqSent':'Yes','rcvName':'Pragathi Footwear Products','rcvCity':'Medak','rcvState':'Telangana','rcvLocality':'Patancheru','rcvCountry':'','pDispId':'13586777630','modrefType':'product','rcvGlid':'7397320','refText':'homepage - Rank - rel_prod_overlay 1299','rcvCustType':'1299','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'Contact Supplier for Pragathi Footwear Products','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Contact Supplier','ctaType':'Product Enquiry','pageType':'home','section':'Recommended Section','position':'1','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'Ask for price','showAttachment':'0','compRank':'' })" class="FM_txc FM_Btn1 Fm_lh7 FM_bo FM_f15 FM_cp FM_Db FM_p13 FM_w190 FM_m35 FM_bRds">Contact Supplier</span></div></div><div class=" FM_bg0 FM_mxw23 FM_bor7 FM_p15 FM_txc FM_ds5 FM_ds6 FM_ds13 FM_bs"><div class="FM_w1 FM_ds5 FM_ds11 FM_ds7"><a href="//www.indiamart.com/proddetail/men-s-shoes-21077996362.html" target="_blank" class="FM_ds5 FM_ds13 FM_ds7 FM_recimg FM_bor7"><img src="https://hm.imimg.com/template-mdc/d0066/jpg/load.svg"  data-dataimg="https://5.imimg.com/data5/IW/PD/LT/ANDROID-88555729/1561193161269-jpg-250x250.jpg"  alt="Men's Shoes" class= "FM_mw100"></a><h3 class="FM_f18 FM_c5 FM_bo Fm_lh6 FM_mb10 FM_ovh FM_h45"><a class="FM_tduHvr FM_ds1" href="//www.indiamart.com/proddetail/men-s-shoes-21077996362.html" target="_blank">Men's Shoes</a></h3><div class="FM_f20 FM_c7 FM_Lsp6 Fm_lh13">Rs 899/ <span class="FM_f16">Pack</span></div><a href="https://www.indiamart.com/hifi/" class="FM_f18 FM_Lsp6 Fm_lh13 FM_m32 FM_c2 FM_tduHvr"> Hifi</a><a class= "FM_f15 FM_c6 FM_m5 FM_Db" href="https://www.indiamart.com/hifi/">Umarkhed, Maharashtra, India</a></div><div class="fasE FM_ds18"><span onclick="open_enq_bl_pop({'catId':'',    'mcatId':'11996','mcatName':'','displayImage':'https://5.imimg.com/data5/IW/PD/LT/ANDROID-88555729/1561193161269-jpg-500x500.jpg','zoomImage':'https://5.imimg.com/data5/IW/PD/LT/ANDROID-88555729/1561193161269-jpg-500x500.jpg','prodServ':'','prodName':'Men\'s Shoes','vidUrl':'','prodDispName':'','price':'Rs 899/ <span class=&quot;FM_f16&quot;>Pack</span>','reqSent':'Yes','rcvName':'Hifi','rcvCity':'Umarkhed','rcvState':'Maharashtra','rcvLocality':'','rcvCountry':'','pDispId':'21077996362','modrefType':'product','rcvGlid':'88555729','refText':'homepage - Rank - rel_prod_overlay 1499','rcvCustType':'1499','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'Contact Supplier for Hifi','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Contact Supplier','ctaType':'Product Enquiry','pageType':'home','section':'Recommended Section','position':'2','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'Ask for price','showAttachment':'0','compRank':'' })" class="FM_txc FM_Btn1 Fm_lh7 FM_bo FM_f15 FM_cp FM_Db FM_p13 FM_w190 FM_m35 FM_bRds">Contact Supplier</span></div></div><div class=" FM_bg0 FM_mxw23 FM_bor7 FM_p15 FM_txc FM_ds5 FM_ds6 FM_ds13 FM_bs"><div class="FM_w1 FM_ds5 FM_ds11 FM_ds7"><a href="//www.indiamart.com/proddetail/men-s-shoes-20673804297.html" target="_blank" class="FM_ds5 FM_ds13 FM_ds7 FM_recimg FM_bor7"><img src="https://hm.imimg.com/template-mdc/d0066/jpg/load.svg"  data-dataimg="https://5.imimg.com/data5/WH/GH/ZM/ANDROID-78406267/product-jpeg-250x250.jpg"  alt="Men's Shoes" class= "FM_mw100"></a><h3 class="FM_f18 FM_c5 FM_bo Fm_lh6 FM_mb10 FM_ovh FM_h45"><a class="FM_tduHvr FM_ds1" href="//www.indiamart.com/proddetail/men-s-shoes-20673804297.html" target="_blank">Men's Shoes</a></h3><div class="FM_f20 FM_c7 FM_Lsp6 Fm_lh13">Rs 750/ <span class="FM_f16">Piece</span></div><a href="https://www.indiamart.com/yaari-dosti-shopping-hub/" class="FM_f18 FM_Lsp6 Fm_lh13 FM_m32 FM_c2 FM_tduHvr"> D Rajh (Shopping Hub)</a><a class= "FM_f15 FM_c6 FM_m5 FM_Db" href="https://www.indiamart.com/yaari-dosti-shopping-hub/">Shivaji Nagar, Aurangabad, Maharashtra, India</a></div><div class="fasE FM_ds18"><span onclick="open_enq_bl_pop({'catId':'',    'mcatId':'11996','mcatName':'','displayImage':'https://5.imimg.com/data5/WH/GH/ZM/ANDROID-78406267/product-jpeg-500x500.jpg','zoomImage':'https://5.imimg.com/data5/WH/GH/ZM/ANDROID-78406267/product-jpeg-500x500.jpg','prodServ':'','prodName':'Men\'s Shoes','vidUrl':'','prodDispName':'','price':'Rs 750/ <span class=&quot;FM_f16&quot;>Piece</span>','reqSent':'Yes','rcvName':'D Rajh (Shopping Hub)','rcvCity':'Aurangabad','rcvState':'Maharashtra','rcvLocality':'Shivaji Nagar','rcvCountry':'','pDispId':'20673804297','modrefType':'product','rcvGlid':'78406267','refText':'homepage - Rank - rel_prod_overlay 1499','rcvCustType':'1499','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'Contact Supplier for D Rajh (Shopping Hub)','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Contact Supplier','ctaType':'Product Enquiry','pageType':'home','section':'Recommended Section','position':'3','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'Ask for price','showAttachment':'0','compRank':'' })" class="FM_txc FM_Btn1 Fm_lh7 FM_bo FM_f15 FM_cp FM_Db FM_p13 FM_w190 FM_m35 FM_bRds">Contact Supplier</span></div></div></div></div></div><div class="fcp_Ad-1 fcp_m1" id="Below_Related_Products" ><ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-0673059417528889"
+     data-ad-slot="6813125755"></ins></div><div class=" FM_p17 FM_bg0 cntr_rpts"><div class="FM_ds5 FM_ds6 FM_ds11 FM_p18 FM_m12 FM_RELTD"><div class="FM_ds5 FM_ds7"><h2 class="FM_f26 FM_c1">Related Categories</h2></div><div class="FM_Pr-dR FM_pr FM_ds5 FM_ds6 FM_ds10 FM_m36">
+<div class="FM_bg0 FM_PrdR FM_pr FM_w412 FM_bSw1 FM_bor1 FM_bor2 FM_ds5 FM_AaRt1">
+						<figure class="FM_w150 FM_wm150 FM_m0 FM_bor10 FM_ds13 FM_ds5 FM_h150">
+									<a href="https://dir.indiamart.com/impcat/boat-shoes.html" target="_blank" class="FM_ds5 FM_ds7">
+									<img src="https://hm.imimg.com/template-mdc/d0066/jpg/load.svg"  data-dataimg="https://3.imimg.com/data3/VW/AE/GLADMIN-22954/boat-shoes-250x250.jpg"  alt="Boat Shoes"></a></figure>
+									<div class="FM_ds13 FM_ds5 FM_ds7 FM_p15 FM_f18 FM_bo Fm_lh6 FM_c1">
+									<a href="https://dir.indiamart.com/impcat/boat-shoes.html" target="_blank" >Boat Shoes</a>
+									</div>
+						</div>
+<div class="FM_bg0 FM_PrdR FM_pr FM_w412 FM_bSw1 FM_bor1 FM_bor2 FM_ds5 FM_AaRt1">
+						<figure class="FM_w150 FM_wm150 FM_m0 FM_bor10 FM_ds13 FM_ds5 FM_h150">
+									<a href="https://dir.indiamart.com/impcat/mens-boots.html" target="_blank" class="FM_ds5 FM_ds7">
+									<img src="https://hm.imimg.com/template-mdc/d0066/jpg/load.svg"  data-dataimg="https://3.imimg.com/data3/EL/PV/GLADMIN-31963/mens-boots-250x250.jpg"  alt="Men Boots"></a></figure>
+									<div class="FM_ds13 FM_ds5 FM_ds7 FM_p15 FM_f18 FM_bo Fm_lh6 FM_c1">
+									<a href="https://dir.indiamart.com/impcat/mens-boots.html" target="_blank" >Men Boots</a>
+									</div>
+						</div>
+<div class="FM_bg0 FM_PrdR FM_pr FM_w412 FM_bSw1 FM_bor1 FM_bor2 FM_ds5 FM_AaRt1">
+						<figure class="FM_w150 FM_wm150 FM_m0 FM_bor10 FM_ds13 FM_ds5 FM_h150">
+									<a href="https://dir.indiamart.com/impcat/mens-sandals.html" target="_blank" class="FM_ds5 FM_ds7">
+									<img src="https://hm.imimg.com/template-mdc/d0066/jpg/load.svg"  data-dataimg="https://5.imimg.com/data5/IP/PC/GLADMIN-2/image_20170706_115552_6075-250x250.jpg"  alt="Men Sandals"></a></figure>
+									<div class="FM_ds13 FM_ds5 FM_ds7 FM_p15 FM_f18 FM_bo Fm_lh6 FM_c1">
+									<a href="https://dir.indiamart.com/impcat/mens-sandals.html" target="_blank" >Men Sandals</a>
+									</div>
+						</div>
+<div class="FM_bg0 FM_PrdR FM_pr FM_w412 FM_bSw1 FM_bor1 FM_bor2 FM_ds5 FM_AaRt1">
+						<figure class="FM_w150 FM_wm150 FM_m0 FM_bor10 FM_ds13 FM_ds5 FM_h150">
+									<a href="https://dir.indiamart.com/impcat/mens-slippers.html" target="_blank" class="FM_ds5 FM_ds7">
+									<img src="https://hm.imimg.com/template-mdc/d0066/jpg/load.svg"  data-dataimg="https://3.imimg.com/data3/CT/KR/GLADMIN-31978/mens-slippers-250x250.jpg"  alt="Men Slippers"></a></figure>
+									<div class="FM_ds13 FM_ds5 FM_ds7 FM_p15 FM_f18 FM_bo Fm_lh6 FM_c1">
+									<a href="https://dir.indiamart.com/impcat/mens-slippers.html" target="_blank" >Men Slippers</a>
+									</div>
+						</div>
+<div class="FM_bg0 FM_PrdR FM_pr FM_w412 FM_bSw1 FM_bor1 FM_bor2 FM_ds5 FM_AaRt1">
+						<figure class="FM_w150 FM_wm150 FM_m0 FM_bor10 FM_ds13 FM_ds5 FM_h150">
+									<a href="https://dir.indiamart.com/impcat/handcrafted-shoes.html" target="_blank" class="FM_ds5 FM_ds7">
+									<img src="https://hm.imimg.com/template-mdc/d0066/jpg/load.svg"  data-dataimg="https://3.imimg.com/data3/FF/LC/GLADMIN-77721/handcrafted-shoes-250x250.jpg"  alt="Handcrafted Shoes"></a></figure>
+									<div class="FM_ds13 FM_ds5 FM_ds7 FM_p15 FM_f18 FM_bo Fm_lh6 FM_c1">
+									<a href="https://dir.indiamart.com/impcat/handcrafted-shoes.html" target="_blank" >Handcrafted Shoes</a>
+									</div>
+						</div>
+<div class="FM_bg0 FM_PrdR FM_pr FM_w412 FM_bSw1 FM_bor1 FM_bor2 FM_ds5 FM_AaRt1">
+						<figure class="FM_w150 FM_wm150 FM_m0 FM_bor10 FM_ds13 FM_ds5 FM_h150">
+									<a href="https://dir.indiamart.com/impcat/handmade-shoes.html" target="_blank" class="FM_ds5 FM_ds7">
+									<img src="https://hm.imimg.com/template-mdc/d0066/jpg/load.svg"  data-dataimg="https://3.imimg.com/data3/JG/SD/GLADMIN-77723/handmade-shoes-250x250.jpg"  alt="Handmade Shoes"></a></figure>
+									<div class="FM_ds13 FM_ds5 FM_ds7 FM_p15 FM_f18 FM_bo Fm_lh6 FM_c1">
+									<a href="https://dir.indiamart.com/impcat/handmade-shoes.html" target="_blank" >Handmade Shoes</a>
+									</div>
+						</div></div></div></div><div class="FM_p17 FM_bg0 cntr_rpts"><div class="FM_ds5 FM_ds6 FM_ds11 FM_p18 FM_RELTD"><div id="recent_item_widget3"></div></div></div><div class="fcp_Ad-1 fcp_m1 FM_p18" id="Below_Featured_Products" ><ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-0673059417528889"
+     data-ad-slot="5364312715"></ins></div></main><script  src="//hm.imimg.com/template-mdc/d0066/post-d66-v29.js" >
+</script>
+<script  src='//utils.imimg.com/globalhf/header/header-new174.js'></script><script>
+page.pageType='homepage';
+page.scriptVer='reqForms.min.js?v=187';
+var rec_count = 0;
+var inlinesticky = {'catId':'-1',    'mcatId':'-1','mcatName':'','displayImage':'','zoomImage':'','prodServ':'','prodName':'','vidUrl':'','prodDispName':'','price':'','reqSent':'','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'0','modrefType':'company','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'1','tempId':'04','instId':'01','heading':' ','plsqArr':'','formType':'Enq','afflId':'-9','ctaName':'Sticky Right','ctaType':'message','pageType':'home','section':'Body','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'1','disableRd':'','BuyerInfo':'1','BtnText':'Send Message','showAttachment':'0','compRank':'Rank - D' };
+var sticky_inlineform_hash = $.extend({},inlinesticky);
+var ss_mdc ='';
+var inline_blenq_hash=[];
+var bl_in=0;
+
+inline_blenq_hash.push(sticky_inlineform_hash); // Inline Sticky.
+
+inline_blenq_hash.push({'catId':'145',    'mcatId':'11996','mcatName':'Men, Women & Kids Footwear','displayImage':'','zoomImage':'','prodServ':'','prodName':'Men, Women & Kids Footwear','vidUrl':'','prodDispName':'','price':'','reqSent':'','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'0','modrefType':'company','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'01','instId':'01','heading':'','plsqArr':'','formType':'BL','afflId':'-1','ctaName':'BLInline','ctaType':'Product Enquiry','pageType':'home','section':'Footer','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'0','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' });
+
+function checkBlloaded(){
+    // Initialize BL forms
+    if(typeof isBlEnqLoaded == 'undefined'){
+        setTimeout(function(){checkBlloaded()},50);
+    }
+    else{
+        if(bl_in==0)
+        {
+            initializeForm(inline_blenq_hash);
+            bl_in=1;
+        }
+    }
+}
+
+function load_enqjs() {
+    if(typeof OpenForm == "undefined" && is_loaded_blenqpost_js == 0){
+    is_loaded_blenqpost_js=1;
+     $.ajax({
+		   type: "GET",
+		   url: "https://apps.imimg.com/js/reqForms.min.js?v=187",
+		   success: function(){
+		   setTimeout(function(){ try {checkBlloaded();} catch (e) {}}, 50);
+            $('.enq_blform').removeClass('FM_ds4');
+		   },
+		   dataType: "script",
+		   cache: true
+		});
+    }
+}
+
+
+
+    var firstimage_hash={} ;
+    var recnt = 0;
+var images_to_slide= [];
+var slide_img_cnt =0;
+setTimeout(function(){
+var seller_id = 83177293 ;
+if(typeof(sugg.recent) == "function" && typeof(sugg.recent("prod_data")) == "object" ){
+var cookie_buyer = readCookie("ImeshVisitor");
+var glid_buyer=0;
+if(cookie_buyer != ""){
+glid_buyer = getparamVal(cookie_buyer, "glid");
+}
+var id_flag = [];
+var recent_arr=[];
+recent_arr_raw=sugg.recent("prod_data");
+for(var i=0; i<recent_arr_raw.length; i++){
+    if(!id_flag[recent_arr_raw[i].id]){
+        id_flag[recent_arr_raw[i].id]=true;
+        recent_arr.push(recent_arr_raw[i]);
+    }
+}
+var found_recent = [];
+var found_serv_nav = [];
+if(recent_arr != undefined && recent_arr.length >0){
+for(var cnt=0;cnt<recent_arr.length;cnt++)
+{
+if(recent_arr[cnt].s_id == seller_id && glid_buyer != seller_id)
+    {
+        for(var cntr=0; cntr<Object.keys(images_to_slide).length;cntr++){
+            if((recent_arr[cnt].id == images_to_slide[cntr].display_id) || (recent_arr[cnt].mcatid == images_to_slide[cntr].mcatid) ){
+                found_recent[recnt]=recent_arr[cnt];
+                found_serv_nav[recnt]=images_to_slide[cntr];
+                recnt++;
+            }
+        }
+    }
+} 
+var to_replace_items = slide_img_cnt-found_recent.length;
+
+
+recnt=0;
+if(found_serv_nav.length>0){
+for(var cnt =hvSlided+1; cnt <= slide_img_cnt;  cnt++){
+    var chng_href_of = document.querySelectorAll('.chngUrl_'+cnt);
+    var chngSldrUrl = '';
+    var chngSldrImg = '';
+    var chngSldrname = '';
+    var chng_img_of = document.getElementById('chngImg_'+cnt);
+    var inx_gbq_of = document.getElementById('inx_gbq_'+cnt);
+    var name_of = document.getElementById('chngName_'+cnt);
+    chngSldrUrl = found_serv_nav[recnt].flname;
+    chngSldrImg = found_serv_nav[recnt].image;
+    chngSldrname = found_serv_nav[recnt].name;
+    firstimage_hash[recnt]={
+        catId: found_serv_nav[recnt].catid,
+        mcatId: found_serv_nav[recnt].mcatid,
+        displayImage: chngSldrImg,
+        zoomImage: chngSldrImg,
+        prodServ: found_serv_nav[recnt].type,
+        prodName: chngSldrname,
+        prodDispName: chngSldrname,
+        price: found_serv_nav[recnt].price,
+        reqSent: 'Yes',
+        rcvName: 'Shandar Shoe Center',
+        rcvCity: 'Latur',
+        rcvState: 'Maharashtra',
+        rcvLocality: '',
+        rcvCountry: 'India',
+        pDispId: found_serv_nav[recnt].display_id,
+        modrefType: 'Product',
+        rcvGlid: '83177293',
+        rcvCustType: '1899',
+        modId: 'FCP',
+        disableIsq: '',
+        tempId: '09',
+        instId: '01',
+        heading: 'Get Best Quote For'+chngSldrname,
+        plsqArr: '',
+        formType: 'Enq',
+        afflId: "-9",
+        ctaName: 'Get Best Quote',
+        ctaType: 'Product Enquiry',
+        pageType:'Home',
+        section: 'Product Slider-FromDIR',
+        position: cnt,
+        scriptVersion: page.scriptVer
+    };
+    
+    
+    for(var cntr=0;cntr<chng_href_of.length;cntr++){
+        chng_href_of[cntr].setAttribute("href",chngSldrUrl);
+    }
+    chng_img_of.setAttribute("src",chngSldrImg);
+    chng_img_of.setAttribute("data-dataimg",chngSldrImg);
+    inx_gbq_of.removeAttribute("onclick");
+    inx_gbq_of.setAttribute("data-hashno",recnt);
+    name_of.innerHTML = chngSldrname;
+
+
+
+$('#inx_gbq_'+cnt).click(function (e)
+{
+    var hashn=$(this).attr('data-hashno');
+
+    open_enq_bl_pop(firstimage_hash[hashn]);
+});
+    
+    recnt++;
+    if(recnt == found_recent.length){
+        break;
+    }
+    
+}
+}
+}
+}
+},2500)
+
+
+window.onload = function(){
+LoadImageinViewPort();
+$('head').append('<link rel="stylesheet" type="text/css" href="https://apps.imimg.com/css/reqForms.css?v=81">');
+load_enqjs();
+$.ajax({
+		   type: "GET",
+		   url: "//utils.imimg.com/header/js/imlogin-v357.js",
+		   success: function(){},
+		   dataType: "script",
+		   crossDomain: true,
+		   cache: true
+		});
+		
+$.ajax({
+		   type: "GET",
+		   url: "//utils.imimg.com/im_msg/js/im_msg.js?v=32",
+		   success: function(){},
+		   dataType: "script",
+		   crossDomain: true,
+		   cache: true
+		});		
+		
+loadGtm();		
+loadafterpage();
+
+var dd = new Date();
+       var cr_dt = '' + dd.getFullYear() + (dd.getMonth() < 9 ? '0' + (dd.getMonth()+1) : (dd.getMonth()+1)) + (dd.getDate() < 10 ? '0' + (dd.getDate()) : (dd.getDate())) + (dd.getHours() < 10 ? '0' + dd.getHours() : dd.getHours()) + (dd.getMinutes() < 10 ? '0' + dd.getMinutes() : dd.getMinutes()) + (dd.getSeconds() < 10 ? '0' + dd.getSeconds() : dd.getSeconds());
+
+if(typeof(Suggester)=="function" && Suggester !='undefined'){
+sugg = new Suggester({"element":"search_string", "onSelect":selecttext, "placeholder":"Enter product / service to search", "classPlaceholder":"ui-placeholder-input","autocompleteClass":"im-gl-header","dispstyle":2});$('#btnSearch').click(function(){sugg.onEnd();}); sugg.recent({searches:"Ladies Shoes",mcatnames:"Men, Women & Kids Footwear",mcats:"11996",cats:"145",sites:"",type:"recent",prodId:"20962893755"});
+}else{
+setTimeout(function(){$.getScript("//utils.imimg.com/suggest/js/suggest.js").done( function( ) {
+setTimeout(function(){
+sugg = new Suggester({"element":"search_string", "onSelect":selecttext, "placeholder":"Enter product / service to search", "classPlaceholder":"ui-placeholder-input","autocompleteClass":"im-gl-header","dispstyle":2});$('#btnSearch').click(function(){sugg.onEnd();}); sugg.recent({searches:"Ladies Shoes",mcatnames:"Men, Women & Kids Footwear",mcats:"11996",cats:"145",sites:"",type:"recent",prodId:"20962893755"});
+},150);});},100);
+}
+
+rec_count = 4;
+ 
+
+getCntryCodeFCP();
+
+
+if(is_cookie_imesh_p_imes != "") {
+
+var iso_cntry='0';
+    if(cont_codeFCP != "IN") iso_cntry='+91-';
+        
+        
+    if(document.getElementById('header_pnsno') != "" && document.getElementById('header_pnsno') != null && document.getElementById('header_pnsno').getAttribute('data-pnsno') != ""){
+    document.getElementById("header_pnsno").innerHTML='<span class="FM_bo1 ">Call </span>' +iso_cntry + document.getElementById('header_pnsno').getAttribute('data-pnsno');
+    $('#header_pnsno').removeClass('FM_c4');
+    $('#header_pnsno').addClass('FM_C0 FM_bo'); 
+ }
+
+    if(document.getElementById('footerPNS') != "" && document.getElementById('footerPNS') != null && document.getElementById('footerPNS').getAttribute('data-pnsno') != ""){
+    document.getElementById("footerPNS").innerHTML= '<span class="FM_c2 FM_tduHvr"><span class="FM_bo1 ">Call </span>' + iso_cntry + document.getElementById('footerPNS').getAttribute('data-pnsno')+'</span>';
+    }
+    
+if(document.getElementById('ResponseRate_header') != "" && document.getElementById('ResponseRate_header') != null){
+$('#ResponseRate_header').removeClass('FM_ds4');
+    $('#ResponseRate_header').addClass('FM_Db'); 
+}
+
+if(rec_count > 0 ){
+
+for(cnt_r=0; cnt_r<4; cnt_r++){
+if(document.getElementById('recommendPNS_'+cnt_r) != "" && document.getElementById('recommendPNS_'+cnt_r) != null && document.getElementById('recommendPNS_'+cnt_r).getAttribute('data-pnsno') != ""){
+    document.getElementById('recommendPNS_'+cnt_r).innerHTML='<span class="FM_c2 FM_tduHvr "><span class="FM_bo1 ">Call </span>' +iso_cntry + document.getElementById('recommendPNS_'+cnt_r).getAttribute('data-pnsno')+'</span>';
+    
+ }
+
+}
+}
+
+}
+
+is_cookie_imesh_p = getCartCookie("iploc");
+if(is_cookie_imesh_p != ""){
+cntry_iso_fcp = getparamVal(is_cookie_imesh_p, "gcniso");
+}
+}
+
+var open_inactive=0;
+var checkscrolldone=0;
+var pwidget=0;
+function pers_widget(glid)
+{
+if(pwidget == 0){
+if(typeof(perWidget)!="undefined"){
+PersonalizedWidget({widgetID:'W3',modID:'FCP',glusrID:glid});
+pwidget=1;
+}
+else
+{
+setTimeout(function(){pers_widget(glid)},50);
+}
+}
+}
+
+$(window).scroll(function()
+{
+if(checkscrolldone == 0){
+$.ajaxSetup({cache: false});
+$.get("//utils.imimg.com/per/js/pers.js?v=86",{},function(data){},'script');
+pers_widget(glid);
+checkscrolldone=1;
+}
+ 
+});
+
+$(".ih-pbr").unbind("click");
+$('.ih-pbr').click(function(event){event.preventDefault();open_enq_bl_pop({'catId':'145',    'mcatId':'11996','mcatName':'Men, Women & Kids Footwear','displayImage':'','zoomImage':'','prodServ':'','prodName':'Men, Women & Kids Footwear','vidUrl':'','prodDispName':'','price':'','reqSent':'Yes','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'0','modrefType':'product','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'08','instId':'01','heading':'','plsqArr':'','formType':'CHATBL','afflId':'-155','ctaName':'getbestquote','ctaType':'Product Enquiry','pageType':'home','section':'IM header','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' });$(this).css("cursor","pointer");});
+
+
+function openInactiveBL(enqhasarr){
+if(open_inactive == 1 && $("#t0901_bewrapper").css("display") == "none"){
+open_enq_bl_pop(enqhasarr);
+}
+}
+var idleInterval;
+$(window).load(function()
+{
+
+idleTime = 0;
+blStop = 0;
+idleInterval = setInterval(timerIncrement,12000); // 1 minute
+
+$(window).mousemove(function (e)
+{
+idleTime = 0;
+});
+$(document).click(function (e)
+{
+idleTime = 0;
+});
+$(document).keypress(function (e)
+{
+idleTime = 0;
+});
+$(document).scroll(function (e)
+{
+idleTime = 0;
+});
+function timerIncrement()
+{
+idleTime = idleTime + 1;
+if(idleTime>4 && isBLFormOpen==false && blStop==0)
+{
+blStop=1;
+idleTime=0;
+open_inactive=1;
+openInactiveBL({'catId':'145',    'mcatId':'11996','mcatName':'Men, Women & Kids Footwear','displayImage':'','zoomImage':'','prodServ':'','prodName':'Men, Women & Kids Footwear','vidUrl':'','prodDispName':'','price':'','reqSent':'Yes','rcvName':'Shandar Shoe Center','rcvCity':'Latur','rcvState':'Maharashtra','rcvLocality':'Nalegaon','rcvCountry':'India','pDispId':'0','modrefType':'product','rcvGlid':'83177293','refText':'','rcvCustType':'1899','prev':'','next':'','modId':'FCP','disableIsq':'','tempId':'09','instId':'01','heading':'','plsqArr':'','formType':'BL','afflId':'-2','ctaName':'Inactive','ctaType':'Product Enquiry','pageType':'home','section':'Inactive','position':'','scriptVersion':'reqForms.min.js?v=187','rdMend':'','disableRd':'','BuyerInfo':'0','BtnText':'','showAttachment':'0','compRank':'Rank - D' });
+open_inactive=0;
+}
+}
+});
+$('#return-to-top').hide();
+var stick_clos=0;
+$hd_cls = $('.FM_Head');
+$ss = $("[name='ss']");
+$Fm_ht=$('.FM_Head').height()
+$footr=$('.footr');
+$AdDiv = $('.FM_rgtAdd');
+$footrscrl=$footr.offset().top + $Fm_ht- $(this).height();
+
+
+$(window).scroll(function(){
+$scrl_win = $(this).scrollTop();
+if ($(this).scrollTop() + 60 >= 2*$('.FM_Head').outerHeight() && $scrl_win < $footrscrl) { 
+   
+    $hd_cls.addClass('stk_init');
+    stick_clos=1;
+    
+setTimeout(function(){ if(stick_clos==1) {$hd_cls.addClass('stkyH');
+
+} }, 200);
+if(fcp_flag !=1){
+   
+    $ss.hide();
+}
+} else {
+   
+    stick_clos=0;
+
+    $hd_cls.removeClass('stk_init stkyH');
+    if(defCls != undefined){
+    defCls.removeClass('FM_stkLarg');
+    }
+    
+    $ss.removeClass('FM_vH');
+    $ss.show();
+    }
+ if ($(this).scrollTop() > 400) { 
+    $('#return-to-top').fadeIn(); 
+
+ } else { 
+    $('#return-to-top').fadeOut();
+
+ }
+
+});
+
+$('#return-to-top').click(function(){ 
+$("html, body").animate({ scrollTop: 0 }, 600); 
+return false; 
+});
+</script>
+<script type='application/ld+json'> 
+      [ 
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://www.indiamart.com/",
+      "name": "Indiamart"
+    }
+  },{
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://www.indiamart.com/company/83177293/",
+      "name": "Shandar Shoe Center"
+    }
+  }  ]
+}]
+    </script>
+    <div class="FM_mb16"><div class="cf_clb cf_footer"><div class="cf_ftHd"><div class="cf_wd"><div class="cf_social">Follow us on: <a href="https://www.facebook.com/IndiaMART" class="cf_fb" target="_blank">Facebook</a> <a href="https://twitter.com/IndiaMART" class="tw_ft" target="_blank">Twitter</a> <a href="https://www.linkedin.com/company/indiamart-intermesh-limited/" class="cf_lkd_in" target="_blank">linkedin</a> </div><div class="cf_goMob cf_rht">Go Mobile: <a href="https://itunes.apple.com/us/app/indiamart-buy-sell-products/id668561641?mt=8" class="cf_iOS" target="_blank">iOS App</a> <a href="https://play.google.com/store/apps/details?id=com.indiamart.m" class="cf_anrd" target="_blank">Android App</a><a href="https://m.indiamart.com/" class="cf_mSit" target="_blank">https://m.indiamart.com</a></div><span class="cf_fhd">We are here to help you!</span></div></div><div class="cf_wd cf_ftlk" id="sag"></div><div class="cf_cryt"><div class="cf_wd"><span class="cf_rht"><a href="https://www.indiamart.com/terms-of-use.html">Terms of Use</a> - <a href="https://www.indiamart.com/privacy-policy.html">Privacy Policy</a> - <a href="https://www.indiamart.com/link-to-us.html">Link to Us</a></span><span>Copyright &copy; 1996-2020 IndiaMART InterMESH Ltd. All rights reserved.</span></div></div><div class="chat_window" style="position:absolute; right:0px"></div></div>
+<div id="IdentifiedPopUpHTML"></div>
+<script>
+var css = document.createElement("style");
+css.type = "text/css";
+css.innerHTML = ".cf_wd a{text-decoration:none; outline:none;-webkit-backface-visibility:hidden;}.cf_social,.cf_rht,.cf_ftlk li.last{float:right}.cf_clb, .cf_cryt{clear:both}.cf_wd{width:1001px;margin:0 auto} .cf_footer{background:#f6f6f6;border-top:solid 1px #e6e6e6; font-weight:300;font-size:14px;font-family: arial;}.cf_footer a{text-decoration:none; outline:none; -webkit-backface-visibility: hidden}.cf_footer ul, .cf_footer li{margin:0;padding:0}.cf_ftHd{background:#eeeeee;border-top:solid 1px #fff;border-bottom:solid 1px #e6e6e6;line-height:42px;font-weight:400}.cf_fhd{color:#2e3192;font-size:20px}.cf_social a{ display:inline-block;width:31px;height:42px;margin:0;text-indent:-99999px;transition: all 0.2s ease-out 0s}.cf_fb{background-position:-138px -189px}.cf_fb:hover{background-position:-170px -189px}.tw_ft{background-position:-202px -189px}.tw_ft:hover{background-position:-234px -189px}.cf_lkd_in{background-position:-265px -189px}.cf_lkd_in:hover{background-position:-297px -189px}.cf_gpls{background-position:-262px -189px}.cf_gpls:hover{background-position:-294px -189px}.cf_wndw{background-position:-335px -189px} .cf_wndw:hover{background-position:-355px -189px}.cf_bb{background-position:-392px -183px;width:32px!important}.cf_bb:hover{background-position:-427px -183px}.cf_goMob{margin-right:15px}.cf_goMob a{ display:inline-block;width:24px;height:42px;margin:0;text-indent:-99999px;transition: all 0.2s ease-out 0s}.cf_iOS{background-position:-45px -187px}.cf_iOS:hover{background-position:-68px -187px}.cf_anrd{background-position:0 -187px}.cf_anrd:hover{background-position:-23px -187px}.cf_mSit{background-position:-90px -187px}.cf_mSit:hover{background-position:-113px -187px}.cf_ftlk li{margin:7px 0;display:inline-block;width:190px;float:left;list-style:none;line-height:19px}.cf_ftlk li.last{margin-right:0 !important; width:140px}.cf_ftlk li.cf_wdth{width:240px}.cf_ftlk li a{display:block;padding:1px 0;color:#727272}.cf_ftlk li a:hover, .cf_cryt a:hover{color:#2e3192}.cf_ftlk .cf_lihd{font-size:17px;color:#000;padding:0 0 4px;font-weight:400}.cf_cryt{border-top:solid 1px #e1e1e1;color:#727272;padding:5px;font-size:13px}.cf_cryt a{color:#727272}.cf_ftlk .cf_lihd a{color:#000;}.cf_wd .cf_iOS,.cf_wd .cf_anrd,.cf_wd .cf_mSit,.cf_wd .cf_fb,.cf_wd .tw_ft,.cf_wd .cf_lkd_in, .cf_wd .cf_gpls{background-image: url(https://utils.imimg.com/globalhf/hrd-sp-v28.png);background-repeat: no-repeat}";
+document.body.appendChild(css);
+if(window.location.href.match(/my/i)=='my'||glmodid=="IMHOME")
+{
+    document.getElementById('sag').innerHTML='<ul><li><a href="https://corporate.indiamart.com/about-us/">About Us</a> <a href="https://corporate.indiamart.com/category/everything-else/indiamart-achievers/">Success Stories</a> <a href="https://corporate.indiamart.com/category/everything-else/press-releases/">Press Section</a> <a href="https://corporate.indiamart.com/advertise-with-indiamart/">Advertise with Us</a><a href="http://investor.indiamart.com">Investor Section</a></li><li><a href="https://help.indiamart.com/">Help</a><a href="https://help.indiamart.com/user-feedback/">Feedback</a> <a href="https://help.indiamart.com/complaint-registration/">Complaints</a><a href="https://corporate.indiamart.com/customer-care-services/">Customer Care</a><a href="https://corporate.indiamart.com/careers-at-im/ ">Jobs &amp; Careers</a><a href="https://corporate.indiamart.com/branch-offices/">Contact Us</a></li><li class="cf_wdth"><div class="cf_lihd"><a href="https://seller.indiamart.com" class="ch_supplier_head">Suppliers Tool Kit</a></div><span id="ch_free_web"><a href="https://www.indiamart.com/seller/" class="ch_free_web">Sell on IndiaMART</a></span> <a href="https://trade.indiamart.com/" class="bl_log_link">Latest BuyLead</a> <a href="https://corporate.indiamart.com/quick-learn/">Learning Centre</a> <a href="https://seller.indiamart.com/pwim/invoice/whatispwim/?bannerid=cntrlfooter" id="pypd_footer" style="display:none">Pay With IndiaMART</a></li><li class="cf_wdth"><div class="cf_lihd"><a href="https://my.indiamart.com" class="ch_buyers_head">Buyers Tool Kit</a></div><a href="https://my.indiamart.com/buyertools/postbl" class="ch_post_buy">Post Your Requirement</a> <a href="https://my.indiamart.com/buyertools/myproductbuy" class="mang_pro">Products You Buy</a> <a href="https://www.indiamart.com/search.html">Search Products &amp; Suppliers</a> <a href="https://paywith.indiamart.com?bannerid=cntrlfooter" id="pay_footer">Pay With IndiaMART</a></li><li class="last"><div class="cf_lihd">Events</div><a href="https://10times.com/tradeshows" target="_blank">Trade Shows</a> <a href="https://10times.com/conferences" target="_blank">Conferences</a> <a href="https://10times.com/events/by-country" target="_blank">Events by Country</a></li></ul>';
+}
+else
+{
+    document.getElementById('sag').innerHTML='<ul><li><a href="https://corporate.indiamart.com/about-us/">About Us</a> <a href="https://corporate.indiamart.com/category/everything-else/indiamart-achievers/">Success Stories</a> <a href="https://corporate.indiamart.com/category/everything-else/press-releases/">Press Section</a> <a href="https://corporate.indiamart.com/advertise-with-indiamart/">Advertise with Us</a> <a href="https://corporate.indiamart.com/careers-at-im/ ">Jobs &amp; Careers</a></li><li><a href="https://help.indiamart.com/">Help</a> <a href="https://help.indiamart.com/user-feedback/">Feedback</a> <a href="https://help.indiamart.com/complaint-registration/">Complaints</a> <a href="https://corporate.indiamart.com/customer-care-services/">Customer Care</a> <a href="https://corporate.indiamart.com/branch-offices/">Contact Us</a></li><li class="cf_wdth"><div class="cf_lihd"><a href="https://seller.indiamart.com" class="ch_supplier_head">Suppliers Tool Kit</a></div><span id="ch_free_web"><a href="https://www.indiamart.com/seller/" class="ch_free_web">Sell on IndiaMART</a></span> <a href="https://trade.indiamart.com/" class="bl_log_link">Latest BuyLead</a> <a href="https://corporate.indiamart.com/quick-learn/">Learning Centre</a> <a href="https://seller.indiamart.com/pwim/invoice/whatispwim/?bannerid=cntrlfooter" id="pypd_footer" style="display:none">Pay With IndiaMART</a></li><li class="cf_wdth"><div class="cf_lihd"><a href="https://my.indiamart.com" class="ch_buyers_head">Buyers Tool Kit</a></div><a href="https://my.indiamart.com/buyertools/postbl" class="ch_post_buy">Post Your Requirement</a> <a href="https://my.indiamart.com/buyertools/myproductbuy" class="mang_pro">Products You Buy</a> <a href="https://www.indiamart.com/search.html">Search Products &amp; Suppliers</a> <a href="https://paywith.indiamart.com?bannerid=cntrlfooter"  id="pay_footer">Pay With IndiaMART</a></li><li class="last"><div class="cf_lihd">Events</div><a href="https://10times.com/tradeshows" target="_blank">Trade Shows</a> <a href="https://10times.com/conferences" target="_blank">Conferences</a> <a href="https://10times.com/events/by-country" target="_blank">Events by Country</a></li></ul>';   
+}
+var webAddress=location.hostname;var UrlPri =webAddress.match(/^dev/)?"dev-":(webAddress.match(/^stg/))?"stg-":"";var c_imesh = (typeof(readCookie("ImeshVisitor")) !== "undefined")?readCookie("ImeshVisitor"):'';var pv_count=0;if(readCookie("xnHist") > ""){    
+if(getparamVal(decodeURIComponent(readCookie("xnHist")), "pv") !=""){pv_count=getparamVal(decodeURIComponent(readCookie("xnHist")), "pv")}}
+var rspv = 0;
+var newVal = "";
+var o = new Date;
+o.setTime(o.getTime() + (30*60*1000));
+ if(readCookie("sessid").length > 0)
+ {
+    var spv1 = readCookie("sessid").split('='); 
+    rspv = parseInt(spv1[1]);
+    newVal = "spv="+ ++rspv;
+ }
+ else{
+ newVal = "spv=1";
+ } 
+function callIdentifyPopup()
+{
+    var match=window.location.href.match(/back=1/) ;
+    if((c_imesh == '' || c_imesh==null) && (rspv == 2 || rspv == 4 || rspv == 6)&& match==null){
+        $.ajaxSetup({ cache: true }); $.getScript("https://"+UrlPri+"utils.imimg.com/globalhf/identified_popup.js",function(){getIdentifiedPopUpHTMLForm1(); setTimeout(function(){identify_Banner()},3000);});
+        $('#IdentifiedPopUpHTML').on("click","#countrySuggesterIdenPop",function(){changePopUpInput(identifiedPopName,1);});is_form_open=0; }
+}  
+function activeFooterOnReady()
+{
+    if(typeof(jQuery) === 'function'){
+        document.cookie = "sessid="+newVal + ";expires=" + o.toGMTString() + ";domain=.indiamart.com;path=/;"
+        //callIdentifyPopup();
+         pop_imesh = readCookie("ImeshVisitor");
+         pop_xnhist = readCookie("xnHist");
+         var ipv = getparamVal(pop_xnhist, "ipv");
+         var fpv = getparamVal(pop_xnhist, "fpv");
+         var glUserId = getparamVal(pop_imesh, "glid");
+        var name = getparamVal(pop_imesh, "mb1");
+        var modid = glmodid;
+        var email = getparamVal(pop_imesh, "em");
+        var city = getparamVal(pop_imesh, "ct");
+        var ph_country = getparamVal(pop_imesh, "phcc");
+        var cn_iso = getparamVal(pop_imesh, "iso");
+         //Mobile Verification Popup for 3rd and 5th Page view
+        //  if(((ipv == 2)||(ipv==4))&& (!(window.location.href.indexOf("my") > -1))) {  
+        //      var screen = 'VER';
+        //      if (name!=''&& getparamVal(pop_imesh, "phcc") == '91' && getparamVal(pop_imesh, "uv") != 'V'){        
+        //          $.getScript("https://"+UrlPri+"utils.imimg.com/header/js/imlogin.js", function(){ send_otp(glUserId,modid,name,ph_country,'121',cn_iso,'2','4',screen);
+        //          });
+        //      }
+        // }   
+    } else{ setTimeout(function(){activeFooterOnReady()}, 50);}
+}
+if(document.readyState !== "complete" && typeof jQuery === 'function'){
+    $(document).ready(function(){ activeFooterOnReady(); });
+}else{
+    activeFooterOnReady();
+}
+function recordInboundLinkS_bounce(category, action, label, value, noninteraction) { _gaq.push(['_trackEvent', window.location.href , action, label, value, noninteraction]); }
+function recordOutboundLink3(category, action){_gaq.push(['_trackEvent', category, action, 'trackPageviewParam']);}
+function callConversionCode()
+{
+    /* <![CDATA[ */
+    var google_conversion_id = 1067418746;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;/* ]]> */
+    $.getScript( "https://www.googleadservices.com/pagead/conversion.js" );
+    $('.cf_ftlk ul li a').on('click',function(){var value=$(this).text();_gaq.push(['_trackEvent', 'IM Global Footer ', window.location.host, value, 0]); }); 
+}
+if(typeof jQuery === 'function' && document.readyState !== "complete"){
+    $(window).load(function() { callConversionCode(); });
+}else{
+    document.addEventListener('jqready', function (e){ callConversionCode(); });
+}
+</script><noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="google" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1067418746/?value=0&amp;guid=ON&amp;script=0"/></div></noscript><noscript><img height="1" width="1" alt="facebook" style="display:none" src="https://www.facebook.com/tr?id=1000024446685311&amp;ev=PixelInitialized" /></noscript>
+</div><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18" class="FM_ds4">
+<path id="gbqicn" d="M1.582,18A1.584,1.584,0,0,1,0,16.418V1.582A1.584,1.584,0,0,1,1.582,0h7.91V3.691a.513.513,0,0,0,.51.527h3.705V6.5l-3.571,3.556a2.117,2.117,0,0,0-.507.823l-.5,1.508a1.318,1.318,0,0,0,1.249,1.737l.255-.014,1.677-.56a2.1,2.1,0,0,0,.82-.506l.58-.565v3.936A1.6,1.6,0,0,1,12.112,18Zm4.729-2.707a.527.527,0,0,0,.527.527H10a.527.527,0,0,0,0-1.055H6.838A.527.527,0,0,0,6.311,15.293Zm-4.2-3.164a.527.527,0,0,0,.527.527H7.893a.527.527,0,1,0,0-1.055H2.637A.527.527,0,0,0,2.109,12.129Zm0-2.109a.527.527,0,0,0,.527.527H7.893a.527.527,0,1,0,0-1.055H2.637A.527.527,0,0,0,2.109,10.02Zm0-2.109a.527.527,0,0,0,.527.527H7.893a.527.527,0,1,0,0-1.055H2.637A.527.527,0,0,0,2.109,7.91Zm0-2.109a.527.527,0,0,0,.527.527H10a.527.527,0,0,0,0-1.055H2.637A.527.527,0,0,0,2.109,5.8Zm8.018,6.924.459-1.376,1.25,1.25-1.376.459a.267.267,0,0,1-.085.014A.264.264,0,0,1,10.127,12.725Zm1.081-2.245,3.473-3.473,1.5,1.5-3.473,3.473Zm4.219-4.219.766-.766a1.059,1.059,0,0,1,1.5,1.5l-.766.766Zm2.264.731h0Zm0,0,0,0,0,0Zm0,0h0Zm0,0h0Zm0,0h0Zm0,0h0Zm0,0h0Zm0,0h0Zm0,0h0Zm0,0h0Zm0,0h0Zm0,0h0Zm0,0h0Zm0,0h0Zm0,0Zm-7.18-3.82V0h.091a1.617,1.617,0,0,1,1.129.464L13.23,1.955a1.572,1.572,0,0,1,.464,1.119v.091Z"/>
+</svg><svg  class="FM_ds4" xmlns="http://www.w3.org/2000/svg"><symbol id="cncticon" viewBox="0 0 511.883 484.482"><path d="M116.791,367.669C1.949,252.816-8.027,177.206,3.831,134.023a34.738,34.738,0,0,1,15.9-20.489l36.1-21.649a8.842,8.842,0,0,1,11.886,2.678l57.518,86.3a8.879,8.879,0,0,1-1.93,11.886L91.017,217.882A26.925,26.925,0,0,0,83.9,252.387l2.56,4.645c9.134,16.769,20.517,37.633,61.934,79.05s62.281,52.79,79.04,61.934l4.645,2.552a26.935,26.935,0,0,0,34.514-7.114l25.125-32.3a8.888,8.888,0,0,1,11.886-1.929L389.9,416.75a8.829,8.829,0,0,1,2.678,11.884l-21.641,36.105a34.744,34.744,0,0,1-20.488,15.909,110.717,110.717,0,0,1-29.437,3.834C275.848,484.481,208.958,459.845,116.791,367.669Zm390.062-74.913H133.066a230.573,230.573,0,0,1-30.51-44.472l-2.632-4.8a8.722,8.722,0,0,1,2.359-11.173l32.265-25.134a27.227,27.227,0,0,0,5.915-36.462L118.74,138.13V5.028A4.971,4.971,0,0,1,123.767,0H506.853a4.974,4.974,0,0,1,5.029,5.028V287.836a4.993,4.993,0,0,1-4.992,4.92Zm-125.571-137.7a9.143,9.143,0,0,0-.737,12.637L474.2,268.033a9.144,9.144,0,0,0,13.376-12.471l-93.632-100.3a9.142,9.142,0,0,0-12.657-.212Zm-144,.212-93.658,100.3A9.144,9.144,0,0,0,157,268.032l93.659-100.344v.046a9.144,9.144,0,0,0-13.377-12.469ZM333.6,154.5,486.41,38.619a9.146,9.146,0,0,0-11.054-14.574L322.563,139.922a12.337,12.337,0,0,1-14.5,0L155.311,24.045a9.16,9.16,0,1,0-11.1,14.574L297.024,154.5a30.727,30.727,0,0,0,36.572,0Z" transform="translate(0 0)"/></symbol><symbol id="editicon" viewBox="0 0 458.86 512"><path d="M222.572,505.966a20,20,0,0,1-4.82-19.779l23.913-78.726a20,20,0,0,1,5.009-8.345l109.8-109.56a60,60,0,0,1,84.838,84.87L331.742,483.793a20,20,0,0,1-8.789,5.119l-80.726,22.361a19.99,19.99,0,0,1-19.655-5.307Zm55.907-82.076-11.884,39.128,40.612-11.25,73.652-73.514-28.291-28.29ZM384.747,317.858l-3.862,3.854L409.17,350l3.875-3.867a20,20,0,0,0-28.3-28.272ZM80,512A80.091,80.091,0,0,1,0,432V80A80.091,80.091,0,0,1,80,0H325.889a80.091,80.091,0,0,1,80,80V203a20,20,0,0,1-40,0V80a40.045,40.045,0,0,0-40-40H80A40.046,40.046,0,0,0,40,80V432a40.045,40.045,0,0,0,40,40h66.889a20,20,0,0,1,0,40ZM99.889,320a20,20,0,0,1,0-40H225a20,20,0,0,1,0,40Zm0-80a20,20,0,0,1,0-40h206a20,20,0,0,1,0,40Zm0-80a20,20,0,0,1,0-40h206a20,20,0,0,1,0,40Z"/></symbol><symbol id="emailicon" viewBox="0 0 87.201 62"><path d="M6.275,62a6.329,6.329,0,0,1-4.307-1.68L32.814,34,43.6,43.4,54.39,34,85.211,60.32A6.283,6.283,0,0,1,80.929,62ZM57.1,31.49,87.2,5.425V56.953ZM0,5.444,30.105,31.49,0,56.95ZM1.981,1.693A6.235,6.235,0,0,1,6.269,0H80.926a6.287,6.287,0,0,1,4.3,1.68L43.6,37.2Z" transform="translate(0 0)"/></symbol><symbol id="smsicon" viewBox="0 0 640 588.812">
+  <path id="smsicon" d="M87.676,459.95A88.089,88.089,0,0,1,0,371.961V87.989A88.085,88.085,0,0,1,87.989,0H552.011A88.084,88.084,0,0,1,640,87.989V371.961a88.089,88.089,0,0,1-87.989,87.989H272.867L87.676,588.812ZM37.5,87.988V371.961a50.547,50.547,0,0,0,50.488,50.488h37.188v94.586L261.1,422.449h290.91A50.547,50.547,0,0,0,602.5,371.961V87.988A50.543,50.543,0,0,0,552.01,37.5H87.988A50.543,50.543,0,0,0,37.5,87.988ZM171.293,330V292.5H468.707V330Zm0-80V212.5H468.707V250Zm0-80V132.5H468.707V170Z"/>
+</symbol>
+<symbol  id="fcpcalicon" viewBox="0 0 20.99 20.991">
+<path d="M14.628,20.974a9.97,9.97,0,0,1-3.815-1.111,20.8,20.8,0,0,1-6.888-5.382,18.922,18.922,0,0,1-3.36-5.6A7.232,7.232,0,0,1,.007,5.76a2.53,2.53,0,0,1,.8-1.709C1.34,3.544,1.843,3.016,2.367,2.5a1.48,1.48,0,0,1,2.224,0c.424.416.853.848,1.259,1.259s.813.813,1.219,1.224a1.476,1.476,0,0,1,0,2.277c-.51.516-1.018,1.034-1.537,1.534a.32.32,0,0,0-.079.411,9.187,9.187,0,0,0,1.394,2.233,16.117,16.117,0,0,0,3.889,3.541c.323.2.682.348,1.018.533a.306.306,0,0,0,.427-.079c.511-.525,1.031-1.04,1.552-1.556a1.472,1.472,0,0,1,2.224,0q1.254,1.243,2.5,2.491a1.486,1.486,0,0,1-.009,2.264c-.472.476-.974.93-1.42,1.429a2.8,2.8,0,0,1-2.4.913ZM10.386,5.817l.227-1.622a7.24,7.24,0,0,1,6.124,5.939l-1.614.275A5.592,5.592,0,0,0,10.386,5.817Zm.213-4.2L10.826,0A12.014,12.014,0,0,1,20.991,9.854l-1.613.274A10.375,10.375,0,0,0,10.6,1.621Z" transform="translate(0)"/>
+</symbol>
+
+<symbol id="vrficon" viewBox="0 0 17.54 18.274">
+<path d="M.5,18.274V15.485H3.136a8.77,8.77,0,1,1,11.269,0h2.638v2.789Zm0-9.5a8.267,8.267,0,0,0,3.446,6.714H13.6A8.27,8.27,0,1,0,.5,8.771Zm3.982,1.12.545-.544L5.571,8.8l.276.278L7.88,11.111,11.889,7.1l1.076-1.076,1.093,1.093L7.882,13.292Z"/>
+</symbol>
+
+</svg></body></html><!-- d0065//83177293 php-->
